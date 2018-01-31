@@ -1,2 +1,2 @@
 # No Regrets:
-A deep dive comparison of Bandits and A/B Testing
+A deep dive comparison of bandits and A/B testing
