@@ -1,0 +1,4864 @@
+,user_id,movie_id,rating,movie_title
+0,307,0,4,Toy Story
+1,250,99,4,Fargo
+2,24,180,5,Return of the Jedi
+3,19,287,1,Scream
+4,31,293,3,Liar Liar
+5,43,293,4,Liar Liar
+6,25,257,3,Contact
+7,193,180,3,Return of the Jedi
+8,65,257,4,Contact
+9,206,257,4,Contact
+10,190,285,4,"English Patient, The"
+11,133,285,3,"English Patient, The"
+12,286,0,5,Toy Story
+13,285,287,5,Scream
+14,289,49,5,Star Wars
+15,263,293,3,Liar Liar
+16,230,180,4,Return of the Jedi
+17,55,120,5,Independence Day
+18,297,180,4,Return of the Jedi
+19,9,99,5,Fargo
+20,244,180,4,Return of the Jedi
+21,180,120,4,Independence Day
+22,275,180,5,Return of the Jedi
+23,266,120,3,Independence Day
+24,125,293,3,Liar Liar
+25,36,287,4,Scream
+26,89,257,3,Contact
+27,107,99,4,Fargo
+28,91,120,5,Independence Day
+29,253,120,3,Independence Day
+30,275,293,4,Liar Liar
+31,78,49,4,Star Wars
+32,5,257,2,Contact
+33,149,180,5,Return of the Jedi
+34,147,0,4,Toy Story
+35,279,0,4,Toy Story
+36,197,257,4,Contact
+37,83,120,4,Independence Day
+38,12,180,5,Return of the Jedi
+39,1,49,5,Star Wars
+40,7,49,5,Star Wars
+41,62,99,5,Fargo
+42,273,49,5,Star Wars
+43,65,180,5,Return of the Jedi
+44,43,257,4,Contact
+45,22,257,5,Contact
+46,311,99,4,Fargo
+47,116,180,5,Return of the Jedi
+48,140,257,5,Contact
+49,65,0,3,Toy Story
+50,4,0,4,Toy Story
+51,108,0,4,Toy Story
+52,226,49,4,Star Wars
+53,180,0,3,Toy Story
+54,103,299,3,Air Force One
+55,12,120,5,Independence Day
+56,61,287,2,Scream
+57,21,257,5,Contact
+58,64,99,3,Fargo
+59,94,0,5,Toy Story
+60,108,257,5,Contact
+61,281,287,4,Scream
+62,251,299,4,Air Force One
+63,196,299,4,Air Force One
+64,286,293,5,Liar Liar
+65,164,287,2,Scream
+66,194,299,3,Air Force One
+67,98,49,5,Star Wars
+68,261,120,3,Independence Day
+69,78,99,5,Fargo
+70,304,49,5,Star Wars
+71,24,257,5,Contact
+72,175,257,4,Contact
+73,57,99,5,Fargo
+74,267,0,3,Toy Story
+75,198,257,4,Contact
+76,102,120,3,Independence Day
+77,136,299,5,Air Force One
+78,212,293,3,Liar Liar
+79,202,180,5,Return of the Jedi
+80,197,99,1,Fargo
+81,126,293,4,Liar Liar
+82,311,120,3,Independence Day
+83,61,257,5,Contact
+84,107,49,4,Star Wars
+85,183,180,4,Return of the Jedi
+86,58,285,3,"English Patient, The"
+87,11,299,4,Air Force One
+88,257,287,1,Scream
+89,292,287,3,Scream
+90,98,180,5,Return of the Jedi
+91,295,257,5,Contact
+92,62,49,4,Star Wars
+93,68,299,3,Air Force One
+94,285,257,4,Contact
+95,183,99,5,Fargo
+96,141,180,5,Return of the Jedi
+97,274,257,3,Contact
+98,161,180,4,Return of the Jedi
+99,5,293,2,Liar Liar
+100,206,120,3,Independence Day
+101,172,285,5,"English Patient, The"
+102,130,99,5,Fargo
+103,196,293,4,Liar Liar
+104,188,0,5,Toy Story
+105,233,49,4,Star Wars
+106,235,285,5,"English Patient, The"
+107,96,49,5,Star Wars
+108,149,120,2,Independence Day
+109,116,49,5,Star Wars
+110,69,49,4,Star Wars
+111,319,293,4,Liar Liar
+112,149,99,2,Fargo
+113,317,49,2,Star Wars
+114,101,299,3,Air Force One
+115,306,99,3,Fargo
+116,144,0,3,Toy Story
+117,108,99,4,Fargo
+118,144,49,5,Star Wars
+119,123,49,3,Star Wars
+120,252,49,4,Star Wars
+121,296,285,5,"English Patient, The"
+122,146,257,4,Contact
+123,41,120,4,Independence Day
+124,175,293,2,Liar Liar
+125,137,120,4,Independence Day
+126,306,257,5,Contact
+127,310,180,4,Return of the Jedi
+128,253,285,1,"English Patient, The"
+129,240,293,3,Liar Liar
+130,175,287,3,Scream
+131,164,257,5,Contact
+132,194,180,5,Return of the Jedi
+133,73,287,3,Scream
+134,210,299,2,Air Force One
+135,157,0,4,Toy Story
+136,295,285,5,"English Patient, The"
+137,161,120,4,Independence Day
+138,177,120,5,Independence Day
+139,74,120,4,Independence Day
+140,245,120,4,Independence Day
+141,273,287,4,Scream
+142,270,120,2,Independence Day
+143,0,120,4,Independence Day
+144,293,287,5,Scream
+145,66,0,3,Toy Story
+146,260,293,4,Liar Liar
+147,236,99,5,Fargo
+148,112,293,4,Liar Liar
+149,270,49,5,Star Wars
+150,178,257,5,Contact
+151,261,257,4,Contact
+152,231,0,4,Toy Story
+153,68,257,4,Contact
+154,253,49,5,Star Wars
+155,328,99,4,Fargo
+156,85,257,5,Contact
+157,196,287,3,Scream
+158,149,0,4,Toy Story
+159,58,120,4,Independence Day
+160,132,257,5,Contact
+161,288,0,3,Toy Story
+162,243,99,4,Fargo
+163,270,299,2,Air Force One
+164,325,49,5,Star Wars
+165,267,120,2,Independence Day
+166,25,285,3,"English Patient, The"
+167,162,287,3,Scream
+168,256,257,3,Contact
+169,326,299,2,Air Force One
+170,42,285,4,"English Patient, The"
+171,190,287,3,Scream
+172,283,257,4,Contact
+173,6,299,4,Air Force One
+174,212,49,5,Star Wars
+175,194,99,5,Fargo
+176,29,180,4,Return of the Jedi
+177,222,257,1,Contact
+178,172,299,4,Air Force One
+179,291,99,5,Fargo
+180,223,257,3,Contact
+181,284,287,5,Scream
+182,296,299,3,Air Force One
+183,12,299,1,Air Force One
+184,285,99,3,Fargo
+185,79,49,3,Star Wars
+186,215,285,4,"English Patient, The"
+187,202,293,2,Liar Liar
+188,116,0,4,Toy Story
+189,103,99,4,Fargo
+190,48,0,2,Toy Story
+191,321,49,5,Star Wars
+192,27,49,4,Star Wars
+193,105,285,4,"English Patient, The"
+194,210,180,1,Return of the Jedi
+195,266,49,5,Star Wars
+196,234,99,4,Fargo
+197,125,257,4,Contact
+198,2,293,2,Liar Liar
+199,120,120,2,Independence Day
+200,208,257,2,Contact
+201,129,49,5,Star Wars
+202,245,293,2,Liar Liar
+203,153,285,4,"English Patient, The"
+204,21,293,1,Liar Liar
+205,227,287,4,Scream
+206,177,287,5,Scream
+207,254,257,4,Contact
+208,56,293,4,Liar Liar
+209,99,287,2,Scream
+210,333,99,5,Fargo
+211,261,49,2,Star Wars
+212,222,0,4,Toy Story
+213,196,180,5,Return of the Jedi
+214,279,99,3,Fargo
+215,309,257,3,Contact
+216,150,299,4,Air Force One
+217,158,257,4,Contact
+218,317,285,3,"English Patient, The"
+219,329,120,4,Independence Day
+220,229,49,5,Star Wars
+221,238,285,1,"English Patient, The"
+222,137,99,5,Fargo
+223,15,287,3,Scream
+224,134,293,4,Liar Liar
+225,109,299,3,Air Force One
+226,179,120,5,Independence Day
+227,39,257,3,Contact
+228,165,287,3,Scream
+229,249,293,1,Liar Liar
+230,213,120,4,Independence Day
+231,63,99,4,Fargo
+232,180,285,1,"English Patient, The"
+233,199,285,4,"English Patient, The"
+234,220,99,5,Fargo
+235,176,299,2,Air Force One
+236,143,285,4,"English Patient, The"
+237,338,287,3,Scream
+238,238,287,2,Scream
+239,38,257,4,Contact
+240,315,49,1,Star Wars
+241,15,293,4,Liar Liar
+242,25,99,5,Fargo
+243,219,287,5,Scream
+244,20,287,3,Scream
+245,247,180,4,Return of the Jedi
+246,205,287,5,Scream
+247,75,99,5,Fargo
+248,326,49,3,Star Wars
+249,13,99,5,Fargo
+250,157,99,5,Fargo
+251,298,49,4,Star Wars
+252,55,0,4,Toy Story
+253,75,257,3,Contact
+254,72,285,4,"English Patient, The"
+255,144,285,3,"English Patient, The"
+256,292,299,2,Air Force One
+257,302,180,5,Return of the Jedi
+258,101,120,3,Independence Day
+259,154,293,3,Liar Liar
+260,250,257,3,Contact
+261,78,287,3,Scream
+262,9,293,3,Liar Liar
+263,343,180,3,Return of the Jedi
+264,52,99,5,Fargo
+265,206,293,3,Liar Liar
+266,64,120,4,Independence Day
+267,85,285,3,"English Patient, The"
+268,143,49,5,Star Wars
+269,341,287,5,Scream
+270,298,285,4,"English Patient, The"
+271,61,293,1,Liar Liar
+272,58,257,3,Contact
+273,7,293,3,Liar Liar
+274,16,0,4,Toy Story
+275,126,285,1,"English Patient, The"
+276,82,293,3,Liar Liar
+277,27,99,5,Fargo
+278,44,120,4,Independence Day
+279,62,287,3,Scream
+280,339,0,5,Toy Story
+281,239,299,3,Air Force One
+282,150,99,3,Fargo
+283,316,299,4,Air Force One
+284,192,287,1,Scream
+285,340,293,3,Liar Liar
+286,58,99,5,Fargo
+287,250,120,4,Independence Day
+288,239,287,5,Scream
+289,95,99,5,Fargo
+290,237,180,3,Return of the Jedi
+291,203,257,2,Contact
+292,310,257,4,Contact
+293,247,99,4,Fargo
+294,161,49,5,Star Wars
+295,76,180,3,Return of the Jedi
+296,176,0,3,Toy Story
+297,245,99,4,Fargo
+298,252,293,4,Liar Liar
+299,47,49,4,Star Wars
+300,199,120,5,Independence Day
+301,0,257,5,Contact
+302,189,299,4,Air Force One
+303,8,285,5,"English Patient, The"
+304,112,99,4,Fargo
+305,281,257,5,Contact
+306,140,49,4,Star Wars
+307,31,99,3,Fargo
+308,250,49,5,Star Wars
+309,98,257,5,Contact
+310,61,99,4,Fargo
+311,102,299,3,Air Force One
+312,233,293,3,Liar Liar
+313,71,180,1,Return of the Jedi
+314,126,299,5,Air Force One
+315,78,285,5,"English Patient, The"
+316,17,285,5,"English Patient, The"
+317,168,180,5,Return of the Jedi
+318,344,120,3,Independence Day
+319,48,257,2,Contact
+320,354,299,4,Air Force One
+321,45,287,2,Scream
+322,305,99,4,Fargo
+323,330,99,4,Fargo
+324,116,120,4,Independence Day
+325,193,0,4,Toy Story
+326,331,257,5,Contact
+327,232,285,3,"English Patient, The"
+328,249,0,4,Toy Story
+329,42,299,5,Air Force One
+330,296,49,5,Star Wars
+331,322,99,4,Fargo
+332,279,285,4,"English Patient, The"
+333,52,180,4,Return of the Jedi
+334,237,299,4,Air Force One
+335,324,180,4,Return of the Jedi
+336,86,299,3,Air Force One
+337,116,257,4,Contact
+338,228,285,4,"English Patient, The"
+339,17,180,3,Return of the Jedi
+340,362,287,4,Scream
+341,63,180,4,Return of the Jedi
+342,172,293,5,Liar Liar
+343,212,0,2,Toy Story
+344,32,257,4,Contact
+345,136,49,5,Star Wars
+346,115,293,2,Liar Liar
+347,347,287,5,Scream
+348,153,49,5,Star Wars
+349,256,49,5,Star Wars
+350,106,257,4,Contact
+351,268,49,3,Star Wars
+352,349,0,4,Toy Story
+353,347,0,4,Toy Story
+354,104,257,5,Contact
+355,130,0,4,Toy Story
+356,122,49,3,Star Wars
+357,160,285,2,"English Patient, The"
+358,199,293,4,Liar Liar
+359,326,287,4,Scream
+360,133,299,3,Air Force One
+361,331,299,5,Air Force One
+362,107,180,3,Return of the Jedi
+363,13,180,5,Return of the Jedi
+364,194,257,4,Contact
+365,364,257,4,Contact
+366,188,120,2,Independence Day
+367,93,49,5,Star Wars
+368,259,299,3,Air Force One
+369,329,49,5,Star Wars
+370,66,120,4,Independence Day
+371,205,257,4,Contact
+372,331,287,5,Scream
+373,367,49,4,Star Wars
+374,204,257,3,Contact
+375,105,0,4,Toy Story
+376,328,257,3,Contact
+377,188,99,4,Fargo
+378,269,285,5,"English Patient, The"
+379,183,257,3,Contact
+380,5,285,2,"English Patient, The"
+381,127,299,5,Air Force One
+382,329,180,5,Return of the Jedi
+383,133,257,4,Contact
+384,107,120,3,Independence Day
+385,297,285,4,"English Patient, The"
+386,13,120,3,Independence Day
+387,303,287,3,Scream
+388,233,0,3,Toy Story
+389,85,299,3,Air Force One
+390,53,120,4,Independence Day
+391,116,287,3,Scream
+392,189,293,3,Liar Liar
+393,76,49,4,Star Wars
+394,320,49,4,Star Wars
+395,302,287,4,Scream
+396,165,257,4,Contact
+397,327,99,5,Fargo
+398,61,120,4,Independence Day
+399,380,49,5,Star Wars
+400,331,180,5,Return of the Jedi
+401,213,293,3,Liar Liar
+402,256,287,3,Scream
+403,255,293,3,Liar Liar
+404,67,287,4,Scream
+405,175,99,5,Fargo
+406,203,285,3,"English Patient, The"
+407,264,180,2,Return of the Jedi
+408,216,257,1,Contact
+409,106,299,1,Air Force One
+410,91,180,4,Return of the Jedi
+411,14,285,2,"English Patient, The"
+412,55,180,5,Return of the Jedi
+413,275,120,4,Independence Day
+414,276,285,5,"English Patient, The"
+415,73,99,4,Fargo
+416,127,293,4,Liar Liar
+417,167,257,4,Contact
+418,42,49,4,Star Wars
+419,248,99,5,Fargo
+420,312,99,5,Fargo
+421,93,257,5,Contact
+422,42,0,5,Toy Story
+423,356,293,4,Liar Liar
+424,231,180,4,Return of the Jedi
+425,285,49,4,Star Wars
+426,21,120,3,Independence Day
+427,158,285,1,"English Patient, The"
+428,361,257,4,Contact
+429,226,285,3,"English Patient, The"
+430,246,49,5,Star Wars
+431,2,299,2,Air Force One
+432,19,0,3,Toy Story
+433,346,287,5,Scream
+434,248,120,3,Independence Day
+435,67,49,5,Star Wars
+436,346,299,5,Air Force One
+437,177,285,3,"English Patient, The"
+438,149,49,5,Star Wars
+439,84,299,3,Air Force One
+440,20,120,1,Independence Day
+441,262,293,2,Liar Liar
+442,89,99,5,Fargo
+443,298,99,3,Fargo
+444,287,299,5,Air Force One
+445,245,0,4,Toy Story
+446,343,287,4,Scream
+447,98,99,5,Fargo
+448,88,120,5,Independence Day
+449,270,257,3,Contact
+450,213,49,3,Star Wars
+451,255,180,4,Return of the Jedi
+452,328,299,4,Air Force One
+453,93,0,4,Toy Story
+454,72,99,4,Fargo
+455,154,285,4,"English Patient, The"
+456,49,285,2,"English Patient, The"
+457,173,287,3,Scream
+458,278,0,3,Toy Story
+459,210,285,4,"English Patient, The"
+460,90,180,5,Return of the Jedi
+461,326,293,3,Liar Liar
+462,360,285,5,"English Patient, The"
+463,385,120,3,Independence Day
+464,269,287,5,Scream
+465,243,257,5,Contact
+466,29,285,5,"English Patient, The"
+467,40,99,4,Fargo
+468,274,299,4,Air Force One
+469,209,49,5,Star Wars
+470,4,99,5,Fargo
+471,37,0,5,Toy Story
+472,256,99,5,Fargo
+473,270,293,2,Liar Liar
+474,10,99,4,Fargo
+475,27,293,3,Liar Liar
+476,356,257,4,Contact
+477,127,0,4,Toy Story
+478,95,0,5,Toy Story
+479,291,287,3,Scream
+480,157,49,4,Star Wars
+481,347,293,4,Liar Liar
+482,198,293,1,Liar Liar
+483,302,293,4,Liar Liar
+484,192,257,3,Contact
+485,278,49,3,Star Wars
+486,12,99,5,Fargo
+487,163,299,5,Air Force One
+488,181,120,3,Independence Day
+489,140,287,3,Scream
+490,304,99,3,Fargo
+491,339,180,4,Return of the Jedi
+492,74,99,5,Fargo
+493,181,99,3,Fargo
+494,202,0,3,Toy Story
+495,130,285,5,"English Patient, The"
+496,243,293,4,Liar Liar
+497,222,285,1,"English Patient, The"
+498,188,293,5,Liar Liar
+499,115,285,3,"English Patient, The"
+500,185,287,1,Scream
+501,156,0,5,Toy Story
+502,164,180,5,Return of the Jedi
+503,6,180,3,Return of the Jedi
+504,93,99,5,Fargo
+505,104,285,4,"English Patient, The"
+506,376,287,5,Scream
+507,287,49,4,Star Wars
+508,53,257,4,Contact
+509,292,180,3,Return of the Jedi
+510,167,287,1,Scream
+511,126,287,5,Scream
+512,279,49,3,Star Wars
+513,24,49,5,Star Wars
+514,193,285,1,"English Patient, The"
+515,345,293,3,Liar Liar
+516,322,285,3,"English Patient, The"
+517,100,120,4,Independence Day
+518,397,180,4,Return of the Jedi
+519,44,99,5,Fargo
+520,242,285,4,"English Patient, The"
+521,314,99,5,Fargo
+522,157,285,4,"English Patient, The"
+523,23,293,3,Liar Liar
+524,143,180,4,Return of the Jedi
+525,279,180,3,Return of the Jedi
+526,276,120,2,Independence Day
+527,310,0,4,Toy Story
+528,165,299,5,Air Force One
+529,23,285,5,"English Patient, The"
+530,367,287,3,Scream
+531,322,299,2,Air Force One
+532,139,257,3,Contact
+533,75,287,2,Scream
+534,338,180,4,Return of the Jedi
+535,221,287,4,Scream
+536,62,299,4,Air Force One
+537,71,120,3,Independence Day
+538,68,99,5,Fargo
+539,141,287,3,Scream
+540,243,180,4,Return of the Jedi
+541,23,257,4,Contact
+542,26,120,4,Independence Day
+543,205,293,2,Liar Liar
+544,302,299,1,Air Force One
+545,71,99,5,Fargo
+546,45,180,4,Return of the Jedi
+547,163,180,5,Return of the Jedi
+548,233,299,3,Air Force One
+549,196,285,1,"English Patient, The"
+550,3,293,5,Liar Liar
+551,211,285,4,"English Patient, The"
+552,196,257,4,Contact
+553,352,285,5,"English Patient, The"
+554,351,180,4,Return of the Jedi
+555,313,287,5,Scream
+556,101,49,4,Star Wars
+557,111,299,4,Air Force One
+558,391,257,2,Contact
+559,228,257,2,Contact
+560,230,120,4,Independence Day
+561,377,287,3,Scream
+562,366,99,5,Fargo
+563,208,49,5,Star Wars
+564,143,299,3,Air Force One
+565,176,99,5,Fargo
+566,29,293,4,Liar Liar
+567,69,120,3,Independence Day
+568,102,49,5,Star Wars
+569,120,293,4,Liar Liar
+570,237,120,4,Independence Day
+571,247,293,3,Liar Liar
+572,108,293,4,Liar Liar
+573,124,0,4,Toy Story
+574,307,180,4,Return of the Jedi
+575,214,257,3,Contact
+576,283,285,4,"English Patient, The"
+577,298,180,3,Return of the Jedi
+578,285,0,4,Toy Story
+579,82,0,4,Toy Story
+580,129,285,5,"English Patient, The"
+581,278,120,4,Independence Day
+582,267,257,2,Contact
+583,219,285,5,"English Patient, The"
+584,291,299,4,Air Force One
+585,341,99,5,Fargo
+586,386,287,3,Scream
+587,346,285,3,"English Patient, The"
+588,162,285,3,"English Patient, The"
+589,388,99,5,Fargo
+590,55,293,4,Liar Liar
+591,273,293,3,Liar Liar
+592,281,293,4,Liar Liar
+593,344,99,5,Fargo
+594,300,0,4,Toy Story
+595,10,299,3,Air Force One
+596,15,299,5,Air Force One
+597,376,99,3,Fargo
+598,183,285,4,"English Patient, The"
+599,82,180,4,Return of the Jedi
+600,397,49,5,Star Wars
+601,378,49,4,Star Wars
+602,408,49,5,Star Wars
+603,177,180,5,Return of the Jedi
+604,56,99,5,Fargo
+605,150,120,5,Independence Day
+606,385,49,4,Star Wars
+607,138,285,4,"English Patient, The"
+608,406,49,4,Star Wars
+609,402,120,5,Independence Day
+610,112,285,4,"English Patient, The"
+611,145,299,3,Air Force One
+612,6,120,5,Independence Day
+613,100,49,4,Star Wars
+614,195,285,5,"English Patient, The"
+615,368,180,5,Return of the Jedi
+616,408,287,1,Scream
+617,392,293,4,Liar Liar
+618,254,287,4,Scream
+619,151,285,5,"English Patient, The"
+620,293,299,4,Air Force One
+621,264,257,4,Contact
+622,135,99,5,Fargo
+623,200,49,4,Star Wars
+624,3,287,4,Scream
+625,409,299,3,Air Force One
+626,344,0,3,Toy Story
+627,282,287,2,Scream
+628,275,287,4,Scream
+629,98,287,4,Scream
+630,125,287,4,Scream
+631,378,293,3,Liar Liar
+632,338,285,5,"English Patient, The"
+633,399,299,4,Air Force One
+634,12,293,2,Liar Liar
+635,52,257,4,Contact
+636,202,49,5,Star Wars
+637,75,120,2,Independence Day
+638,276,180,3,Return of the Jedi
+639,72,287,3,Scream
+640,337,293,1,Liar Liar
+641,304,257,4,Contact
+642,198,285,5,"English Patient, The"
+643,17,0,5,Toy Story
+644,76,99,3,Fargo
+645,321,0,2,Toy Story
+646,185,99,4,Fargo
+647,343,285,3,"English Patient, The"
+648,295,120,5,Independence Day
+649,267,180,4,Return of the Jedi
+650,63,0,4,Toy Story
+651,389,99,5,Fargo
+652,103,287,2,Scream
+653,319,99,4,Fargo
+654,301,257,3,Contact
+655,282,49,5,Star Wars
+656,229,180,4,Return of the Jedi
+657,326,257,1,Contact
+658,128,257,2,Contact
+659,213,287,3,Scream
+660,223,293,4,Liar Liar
+661,167,99,4,Fargo
+662,61,285,3,"English Patient, The"
+663,65,287,4,Scream
+664,144,99,5,Fargo
+665,363,287,4,Scream
+666,44,0,5,Toy Story
+667,91,287,3,Scream
+668,20,99,5,Fargo
+669,246,0,4,Toy Story
+670,26,99,5,Fargo
+671,48,293,1,Liar Liar
+672,327,293,3,Liar Liar
+673,238,99,3,Fargo
+674,222,293,4,Liar Liar
+675,23,99,5,Fargo
+676,61,180,4,Return of the Jedi
+677,328,180,4,Return of the Jedi
+678,119,285,5,"English Patient, The"
+679,42,180,4,Return of the Jedi
+680,355,299,3,Air Force One
+681,127,49,4,Star Wars
+682,389,180,4,Return of the Jedi
+683,101,180,2,Return of the Jedi
+684,203,0,2,Toy Story
+685,378,299,3,Air Force One
+686,199,49,5,Star Wars
+687,57,49,4,Star Wars
+688,6,287,4,Scream
+689,373,120,4,Independence Day
+690,53,49,5,Star Wars
+691,298,293,2,Liar Liar
+692,310,49,5,Star Wars
+693,177,293,2,Liar Liar
+694,346,293,1,Liar Liar
+695,360,99,5,Fargo
+696,75,285,5,"English Patient, The"
+697,333,299,3,Air Force One
+698,39,293,4,Liar Liar
+699,377,257,4,Contact
+700,19,120,3,Independence Day
+701,308,299,3,Air Force One
+702,212,120,5,Independence Day
+703,270,0,3,Toy Story
+704,359,180,4,Return of the Jedi
+705,7,257,5,Contact
+706,307,99,5,Fargo
+707,280,257,2,Contact
+708,40,0,4,Toy Story
+709,391,285,2,"English Patient, The"
+710,283,299,3,Air Force One
+711,129,287,5,Scream
+712,345,120,4,Independence Day
+713,95,49,5,Star Wars
+714,3,49,5,Star Wars
+715,273,0,4,Toy Story
+716,248,299,4,Air Force One
+717,94,180,4,Return of the Jedi
+718,415,293,4,Liar Liar
+719,400,293,1,Liar Liar
+720,114,180,4,Return of the Jedi
+721,20,293,3,Liar Liar
+722,400,49,1,Star Wars
+723,323,257,4,Contact
+724,300,299,4,Air Force One
+725,337,99,4,Fargo
+726,251,99,5,Fargo
+727,361,287,4,Scream
+728,323,299,5,Air Force One
+729,221,0,4,Toy Story
+730,47,285,3,"English Patient, The"
+731,55,257,4,Contact
+732,377,99,4,Fargo
+733,14,0,1,Toy Story
+734,70,49,3,Star Wars
+735,58,49,5,Star Wars
+736,158,120,3,Independence Day
+737,108,120,5,Independence Day
+738,421,257,4,Contact
+739,101,285,3,"English Patient, The"
+740,430,285,4,"English Patient, The"
+741,271,287,4,Scream
+742,192,99,5,Fargo
+743,175,49,5,Star Wars
+744,392,49,5,Star Wars
+745,403,293,4,Liar Liar
+746,134,257,4,Contact
+747,366,287,5,Scream
+748,426,299,4,Air Force One
+749,290,293,5,Liar Liar
+750,199,257,4,Contact
+751,223,299,4,Air Force One
+752,377,120,4,Independence Day
+753,187,180,3,Return of the Jedi
+754,226,120,2,Independence Day
+755,163,120,5,Independence Day
+756,13,49,5,Star Wars
+757,93,287,3,Scream
+758,22,0,5,Toy Story
+759,352,299,3,Air Force One
+760,118,99,5,Fargo
+761,250,180,4,Return of the Jedi
+762,180,257,3,Contact
+763,209,299,4,Air Force One
+764,11,49,4,Star Wars
+765,393,180,4,Return of the Jedi
+766,111,285,4,"English Patient, The"
+767,140,0,3,Toy Story
+768,405,180,5,Return of the Jedi
+769,221,299,5,Air Force One
+770,73,120,4,Independence Day
+771,393,120,4,Independence Day
+772,47,180,5,Return of the Jedi
+773,431,49,5,Star Wars
+774,377,285,5,"English Patient, The"
+775,380,99,4,Fargo
+776,379,180,3,Return of the Jedi
+777,377,49,4,Star Wars
+778,206,99,2,Fargo
+779,85,287,3,Scream
+780,446,120,5,Independence Day
+781,132,293,3,Liar Liar
+782,347,99,4,Fargo
+783,201,285,1,"English Patient, The"
+784,394,120,3,Independence Day
+785,0,99,5,Fargo
+786,299,99,3,Fargo
+787,253,257,4,Contact
+788,264,299,5,Air Force One
+789,20,257,4,Contact
+790,320,99,4,Fargo
+791,84,285,4,"English Patient, The"
+792,384,180,1,Return of the Jedi
+793,384,285,3,"English Patient, The"
+794,340,287,4,Scream
+795,342,120,2,Independence Day
+796,329,285,5,"English Patient, The"
+797,422,257,5,Contact
+798,244,49,4,Star Wars
+799,25,293,3,Liar Liar
+800,180,287,4,Scream
+801,185,299,5,Air Force One
+802,358,0,4,Toy Story
+803,374,299,4,Air Force One
+804,449,99,4,Fargo
+805,113,99,5,Fargo
+806,216,120,1,Independence Day
+807,222,299,3,Air Force One
+808,177,257,4,Contact
+809,324,285,4,"English Patient, The"
+810,338,257,3,Contact
+811,328,287,2,Scream
+812,349,285,5,"English Patient, The"
+813,390,285,4,"English Patient, The"
+814,18,257,4,Contact
+815,114,49,5,Star Wars
+816,400,99,4,Fargo
+817,225,257,5,Contact
+818,81,293,4,Liar Liar
+819,144,257,4,Contact
+820,277,293,4,Liar Liar
+821,386,293,2,Liar Liar
+822,373,0,4,Toy Story
+823,220,257,1,Contact
+824,379,0,4,Toy Story
+825,176,293,4,Liar Liar
+826,405,49,5,Star Wars
+827,448,285,4,"English Patient, The"
+828,140,299,5,Air Force One
+829,9,0,4,Toy Story
+830,366,257,4,Contact
+831,409,285,4,"English Patient, The"
+832,290,180,5,Return of the Jedi
+833,413,99,5,Fargo
+834,94,285,5,"English Patient, The"
+835,319,0,3,Toy Story
+836,40,180,4,Return of the Jedi
+837,266,293,3,Liar Liar
+838,408,180,4,Return of the Jedi
+839,324,99,4,Fargo
+840,392,99,1,Fargo
+841,237,257,3,Contact
+842,38,299,3,Air Force One
+843,443,49,5,Star Wars
+844,48,99,4,Fargo
+845,402,257,4,Contact
+846,453,180,3,Return of the Jedi
+847,159,0,4,Toy Story
+848,336,120,5,Independence Day
+849,159,49,4,Star Wars
+850,250,287,4,Scream
+851,395,0,4,Toy Story
+852,279,287,5,Scream
+853,182,293,3,Liar Liar
+854,348,287,3,Scream
+855,361,293,3,Liar Liar
+856,128,287,1,Scream
+857,407,257,3,Contact
+858,372,99,3,Fargo
+859,212,99,5,Fargo
+860,269,180,4,Return of the Jedi
+861,22,49,4,Star Wars
+862,334,287,4,Scream
+863,432,49,5,Star Wars
+864,5,99,5,Fargo
+865,338,0,5,Toy Story
+866,124,49,5,Star Wars
+867,191,257,5,Contact
+868,413,293,2,Liar Liar
+869,342,99,5,Fargo
+870,450,293,5,Liar Liar
+871,33,285,5,"English Patient, The"
+872,200,99,4,Fargo
+873,446,99,5,Fargo
+874,269,257,3,Contact
+875,255,120,5,Independence Day
+876,40,285,4,"English Patient, The"
+877,302,285,5,"English Patient, The"
+878,273,180,5,Return of the Jedi
+879,450,299,4,Air Force One
+880,45,293,2,Liar Liar
+881,371,285,5,"English Patient, The"
+882,319,49,4,Star Wars
+883,350,285,5,"English Patient, The"
+884,217,99,4,Fargo
+885,233,287,3,Scream
+886,309,180,4,Return of the Jedi
+887,120,180,5,Return of the Jedi
+888,268,99,5,Fargo
+889,390,299,2,Air Force One
+890,28,293,4,Liar Liar
+891,422,299,3,Air Force One
+892,206,180,3,Return of the Jedi
+893,12,257,4,Contact
+894,14,299,4,Air Force One
+895,437,49,5,Star Wars
+896,379,299,3,Air Force One
+897,27,257,5,Contact
+898,455,293,1,Liar Liar
+899,267,287,4,Scream
+900,290,287,5,Scream
+901,460,49,3,Star Wars
+902,169,287,3,Scream
+903,334,257,1,Contact
+904,193,99,4,Fargo
+905,63,299,3,Air Force One
+906,198,0,1,Toy Story
+907,136,120,5,Independence Day
+908,49,287,4,Scream
+909,249,49,5,Star Wars
+910,303,293,4,Liar Liar
+911,421,0,3,Toy Story
+912,180,293,2,Liar Liar
+913,362,257,3,Contact
+914,436,49,5,Star Wars
+915,421,99,4,Fargo
+916,446,299,4,Air Force One
+917,223,285,3,"English Patient, The"
+918,3,299,5,Air Force One
+919,80,0,4,Toy Story
+920,275,257,5,Contact
+921,332,299,4,Air Force One
+922,298,287,3,Scream
+923,41,0,5,Toy Story
+924,69,180,4,Return of the Jedi
+925,356,0,5,Toy Story
+926,25,0,3,Toy Story
+927,471,257,5,Contact
+928,396,287,4,Scream
+929,136,180,5,Return of the Jedi
+930,280,287,4,Scream
+931,326,0,4,Toy Story
+932,306,285,3,"English Patient, The"
+933,323,287,5,Scream
+934,174,99,2,Fargo
+935,135,285,5,"English Patient, The"
+936,104,287,4,Scream
+937,118,49,5,Star Wars
+938,369,293,1,Liar Liar
+939,199,0,5,Toy Story
+940,26,49,3,Star Wars
+941,415,257,5,Contact
+942,451,120,5,Independence Day
+943,25,299,4,Air Force One
+944,465,180,4,Return of the Jedi
+945,415,287,5,Scream
+946,274,293,4,Liar Liar
+947,62,257,3,Contact
+948,274,49,4,Star Wars
+949,388,49,5,Star Wars
+950,407,299,3,Air Force One
+951,402,180,4,Return of the Jedi
+952,201,257,4,Contact
+953,444,120,1,Independence Day
+954,453,285,3,"English Patient, The"
+955,23,299,4,Air Force One
+956,393,287,4,Scream
+957,423,293,5,Liar Liar
+958,372,285,3,"English Patient, The"
+959,117,287,5,Scream
+960,177,299,5,Air Force One
+961,80,99,3,Fargo
+962,118,293,1,Liar Liar
+963,43,0,4,Toy Story
+964,444,49,2,Star Wars
+965,332,293,3,Liar Liar
+966,350,287,3,Scream
+967,294,180,4,Return of the Jedi
+968,200,287,4,Scream
+969,100,180,4,Return of the Jedi
+970,269,49,5,Star Wars
+971,373,99,5,Fargo
+972,255,0,5,Toy Story
+973,446,287,4,Scream
+974,254,99,3,Fargo
+975,262,299,3,Air Force One
+976,378,99,5,Fargo
+977,424,287,5,Scream
+978,421,49,4,Star Wars
+979,167,120,4,Independence Day
+980,1,257,3,Contact
+981,411,287,4,Scream
+982,114,120,3,Independence Day
+983,464,49,4,Star Wars
+984,204,299,3,Air Force One
+985,203,299,3,Air Force One
+986,139,293,3,Liar Liar
+987,86,99,5,Fargo
+988,421,180,4,Return of the Jedi
+989,173,0,3,Toy Story
+990,322,120,3,Independence Day
+991,59,180,4,Return of the Jedi
+992,466,49,4,Star Wars
+993,412,180,5,Return of the Jedi
+994,124,293,4,Liar Liar
+995,59,120,4,Independence Day
+996,163,257,5,Contact
+997,257,257,2,Contact
+998,267,99,3,Fargo
+999,29,257,5,Contact
+1000,156,49,4,Star Wars
+1001,351,99,4,Fargo
+1002,275,49,5,Star Wars
+1003,483,299,4,Air Force One
+1004,262,99,5,Fargo
+1005,64,49,5,Star Wars
+1006,158,293,4,Liar Liar
+1007,226,287,2,Scream
+1008,184,180,4,Return of the Jedi
+1009,410,257,4,Contact
+1010,96,0,4,Toy Story
+1011,152,293,2,Liar Liar
+1012,303,285,1,"English Patient, The"
+1013,54,180,4,Return of the Jedi
+1014,26,285,3,"English Patient, The"
+1015,6,293,1,Liar Liar
+1016,219,299,5,Air Force One
+1017,22,293,1,Liar Liar
+1018,150,285,5,"English Patient, The"
+1019,353,99,5,Fargo
+1020,473,99,5,Fargo
+1021,204,285,2,"English Patient, The"
+1022,462,99,4,Fargo
+1023,91,293,3,Liar Liar
+1024,84,257,4,Contact
+1025,9,49,5,Star Wars
+1026,242,0,4,Toy Story
+1027,407,285,3,"English Patient, The"
+1028,458,180,4,Return of the Jedi
+1029,463,299,4,Air Force One
+1030,221,120,3,Independence Day
+1031,64,293,4,Liar Liar
+1032,434,299,2,Air Force One
+1033,140,120,4,Independence Day
+1034,226,293,3,Liar Liar
+1035,434,49,5,Star Wars
+1036,443,299,4,Air Force One
+1037,418,285,4,"English Patient, The"
+1038,467,293,3,Liar Liar
+1039,67,257,5,Contact
+1040,100,0,3,Toy Story
+1041,489,0,3,Toy Story
+1042,212,285,3,"English Patient, The"
+1043,335,120,4,Independence Day
+1044,99,299,4,Air Force One
+1045,292,257,3,Contact
+1046,124,257,5,Contact
+1047,457,49,2,Star Wars
+1048,241,0,4,Toy Story
+1049,310,299,4,Air Force One
+1050,159,99,5,Fargo
+1051,145,257,4,Contact
+1052,311,0,5,Toy Story
+1053,324,0,2,Toy Story
+1054,445,293,1,Liar Liar
+1055,477,49,3,Star Wars
+1056,212,180,4,Return of the Jedi
+1057,249,287,4,Scream
+1058,395,287,3,Scream
+1059,454,299,4,Air Force One
+1060,433,120,4,Independence Day
+1061,5,49,4,Star Wars
+1062,191,49,4,Star Wars
+1063,459,285,4,"English Patient, The"
+1064,386,49,5,Star Wars
+1065,486,120,4,Independence Day
+1066,83,293,3,Liar Liar
+1067,455,0,2,Toy Story
+1068,471,180,5,Return of the Jedi
+1069,367,180,4,Return of the Jedi
+1070,217,293,2,Liar Liar
+1071,346,0,4,Toy Story
+1072,469,293,3,Liar Liar
+1073,79,99,5,Fargo
+1074,176,120,2,Independence Day
+1075,31,287,4,Scream
+1076,404,49,5,Star Wars
+1077,57,299,4,Air Force One
+1078,286,49,5,Star Wars
+1079,443,99,5,Fargo
+1080,63,49,5,Star Wars
+1081,285,180,3,Return of the Jedi
+1082,144,299,3,Air Force One
+1083,390,287,3,Scream
+1084,441,285,2,"English Patient, The"
+1085,464,299,3,Air Force One
+1086,128,285,5,"English Patient, The"
+1087,20,299,3,Air Force One
+1088,10,257,5,Contact
+1089,60,257,4,Contact
+1090,359,0,3,Toy Story
+1091,492,120,5,Independence Day
+1092,310,99,1,Fargo
+1093,363,293,5,Liar Liar
+1094,52,120,4,Independence Day
+1095,19,180,4,Return of the Jedi
+1096,407,287,4,Scream
+1097,295,99,5,Fargo
+1098,127,120,4,Independence Day
+1099,134,287,3,Scream
+1100,368,49,5,Star Wars
+1101,271,49,4,Star Wars
+1102,358,285,5,"English Patient, The"
+1103,431,257,4,Contact
+1104,191,120,2,Independence Day
+1105,213,180,3,Return of the Jedi
+1106,502,180,5,Return of the Jedi
+1107,417,257,5,Contact
+1108,492,99,5,Fargo
+1109,466,287,4,Scream
+1110,344,287,3,Scream
+1111,202,287,5,Scream
+1112,403,257,4,Contact
+1113,429,287,4,Scream
+1114,437,120,5,Independence Day
+1115,393,49,5,Star Wars
+1116,333,49,5,Star Wars
+1117,122,99,4,Fargo
+1118,84,99,3,Fargo
+1119,39,285,2,"English Patient, The"
+1120,338,99,5,Fargo
+1121,395,299,3,Air Force One
+1122,345,49,5,Star Wars
+1123,478,285,1,"English Patient, The"
+1124,482,180,4,Return of the Jedi
+1125,445,287,2,Scream
+1126,165,293,3,Liar Liar
+1127,278,180,3,Return of the Jedi
+1128,3,257,5,Contact
+1129,413,299,4,Air Force One
+1130,499,293,3,Liar Liar
+1131,197,299,2,Air Force One
+1132,263,287,5,Scream
+1133,498,180,3,Return of the Jedi
+1134,351,49,5,Star Wars
+1135,150,180,5,Return of the Jedi
+1136,176,49,5,Star Wars
+1137,310,120,4,Independence Day
+1138,238,180,3,Return of the Jedi
+1139,298,299,4,Air Force One
+1140,449,287,3,Scream
+1141,148,285,5,"English Patient, The"
+1142,51,120,4,Independence Day
+1143,449,0,4,Toy Story
+1144,202,99,1,Fargo
+1145,43,99,5,Fargo
+1146,446,257,5,Contact
+1147,297,293,3,Liar Liar
+1148,119,257,5,Contact
+1149,190,299,4,Air Force One
+1150,382,99,4,Fargo
+1151,300,180,5,Return of the Jedi
+1152,156,99,5,Fargo
+1153,89,299,3,Air Force One
+1154,103,257,3,Contact
+1155,152,49,1,Star Wars
+1156,395,99,2,Fargo
+1157,437,180,4,Return of the Jedi
+1158,61,49,5,Star Wars
+1159,323,293,5,Liar Liar
+1160,345,299,5,Air Force One
+1161,374,287,4,Scream
+1162,467,257,4,Contact
+1163,208,285,2,"English Patient, The"
+1164,83,0,2,Toy Story
+1165,474,285,2,"English Patient, The"
+1166,453,257,4,Contact
+1167,108,180,5,Return of the Jedi
+1168,153,287,3,Scream
+1169,197,0,4,Toy Story
+1170,47,293,3,Liar Liar
+1171,496,257,4,Contact
+1172,474,99,5,Fargo
+1173,437,285,2,"English Patient, The"
+1174,22,99,5,Fargo
+1175,312,257,3,Contact
+1176,302,257,4,Contact
+1177,193,120,2,Independence Day
+1178,258,120,3,Independence Day
+1179,306,180,5,Return of the Jedi
+1180,67,285,5,"English Patient, The"
+1181,147,49,5,Star Wars
+1182,493,0,3,Toy Story
+1183,270,285,4,"English Patient, The"
+1184,324,49,5,Star Wars
+1185,456,257,5,Contact
+1186,350,299,5,Air Force One
+1187,14,49,5,Star Wars
+1188,277,285,5,"English Patient, The"
+1189,524,0,4,Toy Story
+1190,1,0,4,Toy Story
+1191,64,257,3,Contact
+1192,261,180,3,Return of the Jedi
+1193,61,0,2,Toy Story
+1194,364,287,5,Scream
+1195,364,293,1,Liar Liar
+1196,435,287,4,Scream
+1197,455,49,4,Star Wars
+1198,258,287,3,Scream
+1199,418,180,4,Return of the Jedi
+1200,347,120,5,Independence Day
+1201,18,287,3,Scream
+1202,192,299,4,Air Force One
+1203,452,99,5,Fargo
+1204,496,99,4,Fargo
+1205,304,120,3,Independence Day
+1206,485,285,2,"English Patient, The"
+1207,370,49,4,Star Wars
+1208,428,257,4,Contact
+1209,91,99,5,Fargo
+1210,240,287,5,Scream
+1211,25,180,4,Return of the Jedi
+1212,457,287,3,Scream
+1213,179,257,5,Contact
+1214,252,299,4,Air Force One
+1215,265,285,4,"English Patient, The"
+1216,458,120,5,Independence Day
+1217,342,0,5,Toy Story
+1218,466,99,5,Fargo
+1219,424,285,1,"English Patient, The"
+1220,160,180,2,Return of the Jedi
+1221,453,99,4,Fargo
+1222,505,49,5,Star Wars
+1223,170,257,4,Contact
+1224,359,49,4,Star Wars
+1225,69,299,4,Air Force One
+1226,297,0,5,Toy Story
+1227,285,120,3,Independence Day
+1228,508,49,5,Star Wars
+1229,458,0,4,Toy Story
+1230,501,293,3,Liar Liar
+1231,508,287,5,Scream
+1232,345,180,5,Return of the Jedi
+1233,497,257,2,Contact
+1234,213,99,4,Fargo
+1235,473,180,5,Return of the Jedi
+1236,452,287,4,Scream
+1237,95,180,5,Return of the Jedi
+1238,2,287,2,Scream
+1239,449,257,4,Contact
+1240,119,120,4,Independence Day
+1241,532,49,5,Star Wars
+1242,446,285,2,"English Patient, The"
+1243,406,0,4,Toy Story
+1244,256,180,5,Return of the Jedi
+1245,286,180,3,Return of the Jedi
+1246,453,49,4,Star Wars
+1247,259,287,3,Scream
+1248,122,285,5,"English Patient, The"
+1249,339,49,4,Star Wars
+1250,303,299,5,Air Force One
+1251,470,0,4,Toy Story
+1252,238,49,5,Star Wars
+1253,534,0,3,Toy Story
+1254,532,287,2,Scream
+1255,344,293,3,Liar Liar
+1256,6,99,5,Fargo
+1257,430,299,4,Air Force One
+1258,220,49,4,Star Wars
+1259,252,99,4,Fargo
+1260,214,49,5,Star Wars
+1261,333,285,4,"English Patient, The"
+1262,429,285,4,"English Patient, The"
+1263,534,285,2,"English Patient, The"
+1264,434,293,4,Liar Liar
+1265,234,180,3,Return of the Jedi
+1266,503,287,5,Scream
+1267,296,257,5,Contact
+1268,499,0,4,Toy Story
+1269,99,285,3,"English Patient, The"
+1270,516,299,5,Air Force One
+1271,197,120,3,Independence Day
+1272,319,287,4,Scream
+1273,214,299,3,Air Force One
+1274,511,0,4,Toy Story
+1275,304,285,4,"English Patient, The"
+1276,193,49,3,Star Wars
+1277,419,287,3,Scream
+1278,471,287,5,Scream
+1279,277,257,3,Contact
+1280,118,299,5,Air Force One
+1281,82,120,4,Independence Day
+1282,345,287,2,Scream
+1283,274,0,4,Toy Story
+1284,33,293,1,Liar Liar
+1285,87,299,3,Air Force One
+1286,427,299,5,Air Force One
+1287,182,180,2,Return of the Jedi
+1288,442,257,5,Contact
+1289,251,0,5,Toy Story
+1290,463,257,5,Contact
+1291,455,99,3,Fargo
+1292,167,293,4,Liar Liar
+1293,229,0,5,Toy Story
+1294,248,0,4,Toy Story
+1295,514,287,4,Scream
+1296,416,285,5,"English Patient, The"
+1297,485,120,3,Independence Day
+1298,92,0,5,Toy Story
+1299,477,287,5,Scream
+1300,44,49,5,Star Wars
+1301,219,293,4,Liar Liar
+1302,375,180,4,Return of the Jedi
+1303,520,99,3,Fargo
+1304,354,285,5,"English Patient, The"
+1305,143,257,4,Contact
+1306,432,293,3,Liar Liar
+1307,214,287,2,Scream
+1308,4,49,4,Star Wars
+1309,486,293,4,Liar Liar
+1310,390,293,2,Liar Liar
+1311,520,287,3,Scream
+1312,275,99,5,Fargo
+1313,273,99,5,Fargo
+1314,185,120,2,Independence Day
+1315,513,0,5,Toy Story
+1316,403,299,4,Air Force One
+1317,192,0,4,Toy Story
+1318,80,120,4,Independence Day
+1319,478,49,4,Star Wars
+1320,455,285,3,"English Patient, The"
+1321,103,180,5,Return of the Jedi
+1322,341,285,4,"English Patient, The"
+1323,449,293,4,Liar Liar
+1324,143,287,2,Scream
+1325,209,180,5,Return of the Jedi
+1326,534,180,4,Return of the Jedi
+1327,521,99,5,Fargo
+1328,286,120,4,Independence Day
+1329,302,49,5,Star Wars
+1330,173,99,5,Fargo
+1331,493,49,5,Star Wars
+1332,483,257,5,Contact
+1333,8,293,4,Liar Liar
+1334,524,299,4,Air Force One
+1335,32,293,3,Liar Liar
+1336,362,120,2,Independence Day
+1337,483,0,5,Toy Story
+1338,438,287,3,Scream
+1339,510,293,4,Liar Liar
+1340,429,99,5,Fargo
+1341,503,49,3,Star Wars
+1342,6,257,4,Contact
+1343,74,293,3,Liar Liar
+1344,346,49,5,Star Wars
+1345,58,180,5,Return of the Jedi
+1346,371,99,3,Fargo
+1347,381,257,2,Contact
+1348,463,180,3,Return of the Jedi
+1349,379,285,5,"English Patient, The"
+1350,68,180,5,Return of the Jedi
+1351,160,49,2,Star Wars
+1352,263,285,2,"English Patient, The"
+1353,416,180,3,Return of the Jedi
+1354,53,0,4,Toy Story
+1355,129,180,5,Return of the Jedi
+1356,312,49,5,Star Wars
+1357,249,99,5,Fargo
+1358,74,0,4,Toy Story
+1359,261,99,3,Fargo
+1360,115,257,4,Contact
+1361,337,0,3,Toy Story
+1362,112,49,5,Star Wars
+1363,452,49,5,Star Wars
+1364,539,99,5,Fargo
+1365,98,120,3,Independence Day
+1366,550,285,4,"English Patient, The"
+1367,486,287,4,Scream
+1368,200,120,2,Independence Day
+1369,504,257,1,Contact
+1370,539,49,5,Star Wars
+1371,482,285,3,"English Patient, The"
+1372,261,293,2,Liar Liar
+1373,478,287,3,Scream
+1374,493,99,5,Fargo
+1375,464,285,4,"English Patient, The"
+1376,401,49,4,Star Wars
+1377,524,120,4,Independence Day
+1378,550,180,2,Return of the Jedi
+1379,86,180,5,Return of the Jedi
+1380,12,0,3,Toy Story
+1381,471,0,5,Toy Story
+1382,255,287,5,Scream
+1383,519,299,4,Air Force One
+1384,218,257,5,Contact
+1385,65,49,5,Star Wars
+1386,381,99,4,Fargo
+1387,540,0,4,Toy Story
+1388,73,257,4,Contact
+1389,503,257,5,Contact
+1390,399,287,4,Scream
+1391,359,285,5,"English Patient, The"
+1392,208,0,5,Toy Story
+1393,238,299,1,Air Force One
+1394,6,285,4,"English Patient, The"
+1395,98,299,4,Air Force One
+1396,120,99,4,Fargo
+1397,522,49,5,Star Wars
+1398,495,180,5,Return of the Jedi
+1399,509,285,3,"English Patient, The"
+1400,28,299,3,Air Force One
+1401,143,0,4,Toy Story
+1402,416,0,4,Toy Story
+1403,556,293,3,Liar Liar
+1404,453,0,3,Toy Story
+1405,536,257,4,Contact
+1406,440,287,2,Scream
+1407,535,49,5,Star Wars
+1408,553,285,4,"English Patient, The"
+1409,485,299,4,Air Force One
+1410,343,120,3,Independence Day
+1411,478,120,4,Independence Day
+1412,312,0,4,Toy Story
+1413,458,299,4,Air Force One
+1414,201,0,3,Toy Story
+1415,509,293,3,Liar Liar
+1416,129,99,3,Fargo
+1417,28,285,5,"English Patient, The"
+1418,261,287,3,Scream
+1419,83,299,4,Air Force One
+1420,187,99,4,Fargo
+1421,526,49,4,Star Wars
+1422,43,120,4,Independence Day
+1423,578,0,4,Toy Story
+1424,573,299,4,Air Force One
+1425,532,257,4,Contact
+1426,165,285,1,"English Patient, The"
+1427,406,99,5,Fargo
+1428,180,99,3,Fargo
+1429,295,293,1,Liar Liar
+1430,335,99,3,Fargo
+1431,163,99,5,Fargo
+1432,276,49,3,Star Wars
+1433,284,99,4,Fargo
+1434,2,257,2,Contact
+1435,346,257,4,Contact
+1436,526,180,4,Return of the Jedi
+1437,228,299,2,Air Force One
+1438,124,180,5,Return of the Jedi
+1439,485,257,5,Contact
+1440,446,0,3,Toy Story
+1441,136,0,3,Toy Story
+1442,478,180,5,Return of the Jedi
+1443,571,299,4,Air Force One
+1444,406,180,3,Return of the Jedi
+1445,545,285,2,"English Patient, The"
+1446,348,120,2,Independence Day
+1447,246,299,2,Air Force One
+1448,60,299,5,Air Force One
+1449,507,0,5,Toy Story
+1450,345,99,3,Fargo
+1451,0,0,5,Toy Story
+1452,451,293,2,Liar Liar
+1453,484,293,1,Liar Liar
+1454,568,0,4,Toy Story
+1455,437,99,4,Fargo
+1456,346,180,5,Return of the Jedi
+1457,198,99,3,Fargo
+1458,156,285,5,"English Patient, The"
+1459,401,285,5,"English Patient, The"
+1460,144,293,4,Liar Liar
+1461,463,293,4,Liar Liar
+1462,249,257,4,Contact
+1463,545,287,4,Scream
+1464,353,257,4,Contact
+1465,415,285,5,"English Patient, The"
+1466,550,120,5,Independence Day
+1467,325,180,4,Return of the Jedi
+1468,415,0,5,Toy Story
+1469,548,49,5,Star Wars
+1470,290,0,5,Toy Story
+1471,517,99,4,Fargo
+1472,282,293,4,Liar Liar
+1473,109,257,4,Contact
+1474,453,120,4,Independence Day
+1475,550,49,2,Star Wars
+1476,400,0,2,Toy Story
+1477,63,120,2,Independence Day
+1478,253,180,5,Return of the Jedi
+1479,294,120,4,Independence Day
+1480,281,299,3,Air Force One
+1481,293,120,5,Independence Day
+1482,478,0,5,Toy Story
+1483,529,49,4,Star Wars
+1484,56,180,5,Return of the Jedi
+1485,506,299,5,Air Force One
+1486,531,299,5,Air Force One
+1487,508,299,3,Air Force One
+1488,583,257,4,Contact
+1489,338,49,4,Star Wars
+1490,358,120,4,Independence Day
+1491,48,49,1,Star Wars
+1492,377,180,4,Return of the Jedi
+1493,538,49,3,Star Wars
+1494,500,180,4,Return of the Jedi
+1495,70,180,3,Return of the Jedi
+1496,580,49,4,Star Wars
+1497,483,49,5,Star Wars
+1498,149,287,4,Scream
+1499,103,293,3,Liar Liar
+1500,293,49,5,Star Wars
+1501,591,49,5,Star Wars
+1502,53,180,5,Return of the Jedi
+1503,402,287,4,Scream
+1504,313,120,4,Independence Day
+1505,438,299,4,Air Force One
+1506,287,120,2,Independence Day
+1507,14,180,5,Return of the Jedi
+1508,35,287,4,Scream
+1509,566,0,3,Toy Story
+1510,27,285,3,"English Patient, The"
+1511,462,49,4,Star Wars
+1512,573,257,5,Contact
+1513,400,120,3,Independence Day
+1514,507,180,3,Return of the Jedi
+1515,560,0,2,Toy Story
+1516,473,257,4,Contact
+1517,216,49,1,Star Wars
+1518,86,49,5,Star Wars
+1519,575,180,4,Return of the Jedi
+1520,467,180,3,Return of the Jedi
+1521,431,180,5,Return of the Jedi
+1522,549,299,4,Air Force One
+1523,304,180,4,Return of the Jedi
+1524,245,287,5,Scream
+1525,487,99,2,Fargo
+1526,53,287,4,Scream
+1527,577,293,3,Liar Liar
+1528,389,0,5,Toy Story
+1529,94,120,4,Independence Day
+1530,90,49,5,Star Wars
+1531,161,0,4,Toy Story
+1532,469,287,4,Scream
+1533,399,285,4,"English Patient, The"
+1534,331,0,4,Toy Story
+1535,484,287,3,Scream
+1536,300,120,4,Independence Day
+1537,416,49,3,Star Wars
+1538,115,287,3,Scream
+1539,568,49,5,Star Wars
+1540,497,49,4,Star Wars
+1541,515,180,4,Return of the Jedi
+1542,107,293,4,Liar Liar
+1543,46,257,4,Contact
+1544,106,285,2,"English Patient, The"
+1545,88,99,5,Fargo
+1546,574,180,2,Return of the Jedi
+1547,292,49,5,Star Wars
+1548,391,287,4,Scream
+1549,475,287,4,Scream
+1550,362,0,2,Toy Story
+1551,558,293,1,Liar Liar
+1552,45,49,4,Star Wars
+1553,591,287,5,Scream
+1554,200,180,2,Return of the Jedi
+1555,600,180,5,Return of the Jedi
+1556,431,99,3,Fargo
+1557,588,287,5,Scream
+1558,310,293,4,Liar Liar
+1559,326,99,4,Fargo
+1560,494,49,5,Star Wars
+1561,313,293,5,Liar Liar
+1562,372,180,5,Return of the Jedi
+1563,360,257,3,Contact
+1564,359,99,5,Fargo
+1565,541,287,2,Scream
+1566,409,257,2,Contact
+1567,377,299,4,Air Force One
+1568,302,99,5,Fargo
+1569,349,257,3,Contact
+1570,157,180,3,Return of the Jedi
+1571,431,120,4,Independence Day
+1572,384,49,1,Star Wars
+1573,68,49,5,Star Wars
+1574,532,285,4,"English Patient, The"
+1575,247,49,5,Star Wars
+1576,292,293,2,Liar Liar
+1577,398,49,3,Star Wars
+1578,610,299,5,Air Force One
+1579,527,49,5,Star Wars
+1580,280,293,3,Liar Liar
+1581,296,287,3,Scream
+1582,415,120,5,Independence Day
+1583,454,0,4,Toy Story
+1584,237,285,5,"English Patient, The"
+1585,381,49,1,Star Wars
+1586,183,120,2,Independence Day
+1587,67,120,1,Independence Day
+1588,393,0,4,Toy Story
+1589,330,285,4,"English Patient, The"
+1590,150,49,5,Star Wars
+1591,415,49,5,Star Wars
+1592,388,180,4,Return of the Jedi
+1593,617,99,4,Fargo
+1594,335,287,3,Scream
+1595,596,299,5,Air Force One
+1596,454,287,2,Scream
+1597,559,287,4,Scream
+1598,364,99,5,Fargo
+1599,333,287,3,Scream
+1600,119,0,4,Toy Story
+1601,34,257,2,Contact
+1602,502,120,3,Independence Day
+1603,1,293,1,Liar Liar
+1604,260,287,4,Scream
+1605,277,287,5,Scream
+1606,205,299,1,Air Force One
+1607,508,257,4,Contact
+1608,460,120,2,Independence Day
+1609,579,299,3,Air Force One
+1610,612,257,5,Contact
+1611,499,257,4,Contact
+1612,36,49,5,Star Wars
+1613,296,0,3,Toy Story
+1614,344,49,5,Star Wars
+1615,473,120,4,Independence Day
+1616,539,0,3,Toy Story
+1617,581,257,4,Contact
+1618,290,120,2,Independence Day
+1619,16,285,3,"English Patient, The"
+1620,307,293,3,Liar Liar
+1621,109,287,4,Scream
+1622,522,180,5,Return of the Jedi
+1623,505,299,3,Air Force One
+1624,421,287,3,Scream
+1625,58,287,5,Scream
+1626,445,285,3,"English Patient, The"
+1627,230,0,3,Toy Story
+1628,109,293,3,Liar Liar
+1629,254,120,2,Independence Day
+1630,81,180,4,Return of the Jedi
+1631,485,180,4,Return of the Jedi
+1632,543,285,4,"English Patient, The"
+1633,593,285,3,"English Patient, The"
+1634,16,293,4,Liar Liar
+1635,469,49,5,Star Wars
+1636,559,0,4,Toy Story
+1637,410,49,5,Star Wars
+1638,615,299,4,Air Force One
+1639,187,120,4,Independence Day
+1640,436,287,2,Scream
+1641,243,49,5,Star Wars
+1642,587,257,4,Contact
+1643,349,49,5,Star Wars
+1644,81,120,4,Independence Day
+1645,622,49,5,Star Wars
+1646,419,99,5,Fargo
+1647,616,293,1,Liar Liar
+1648,65,293,4,Liar Liar
+1649,10,285,5,"English Patient, The"
+1650,462,287,1,Scream
+1651,559,257,5,Contact
+1652,278,293,2,Liar Liar
+1653,540,180,5,Return of the Jedi
+1654,547,257,4,Contact
+1655,531,120,4,Independence Day
+1656,394,180,5,Return of the Jedi
+1657,523,285,5,"English Patient, The"
+1658,228,287,4,Scream
+1659,456,99,5,Fargo
+1660,458,99,1,Fargo
+1661,152,257,5,Contact
+1662,450,287,5,Scream
+1663,378,0,4,Toy Story
+1664,58,0,2,Toy Story
+1665,401,257,4,Contact
+1666,478,99,3,Fargo
+1667,98,0,4,Toy Story
+1668,307,287,4,Scream
+1669,410,180,5,Return of the Jedi
+1670,515,49,5,Star Wars
+1671,429,49,4,Star Wars
+1672,127,180,4,Return of the Jedi
+1673,492,49,5,Star Wars
+1674,176,287,5,Scream
+1675,613,99,5,Fargo
+1676,162,299,3,Air Force One
+1677,249,180,4,Return of the Jedi
+1678,181,180,5,Return of the Jedi
+1679,590,285,4,"English Patient, The"
+1680,269,120,4,Independence Day
+1681,125,299,4,Air Force One
+1682,253,0,3,Toy Story
+1683,497,120,2,Independence Day
+1684,532,0,4,Toy Story
+1685,293,99,4,Fargo
+1686,620,180,5,Return of the Jedi
+1687,440,0,5,Toy Story
+1688,567,285,3,"English Patient, The"
+1689,140,285,4,"English Patient, The"
+1690,413,257,5,Contact
+1691,631,287,3,Scream
+1692,139,285,5,"English Patient, The"
+1693,623,49,5,Star Wars
+1694,436,180,4,Return of the Jedi
+1695,595,257,3,Contact
+1696,248,293,3,Liar Liar
+1697,412,299,4,Air Force One
+1698,65,120,3,Independence Day
+1699,2,180,4,Return of the Jedi
+1700,602,99,4,Fargo
+1701,291,0,4,Toy Story
+1702,51,257,5,Contact
+1703,132,299,3,Air Force One
+1704,489,257,2,Contact
+1705,629,293,4,Liar Liar
+1706,168,299,5,Air Force One
+1707,162,257,4,Contact
+1708,619,293,5,Liar Liar
+1709,488,293,3,Liar Liar
+1710,355,285,3,"English Patient, The"
+1711,532,180,5,Return of the Jedi
+1712,212,257,4,Contact
+1713,619,120,5,Independence Day
+1714,636,99,4,Fargo
+1715,322,257,4,Contact
+1716,261,0,3,Toy Story
+1717,417,287,5,Scream
+1718,386,120,2,Independence Day
+1719,578,99,4,Fargo
+1720,486,180,4,Return of the Jedi
+1721,523,99,5,Fargo
+1722,518,287,4,Scream
+1723,208,180,4,Return of the Jedi
+1724,441,99,2,Fargo
+1725,507,120,2,Independence Day
+1726,81,287,3,Scream
+1727,625,287,3,Scream
+1728,305,285,4,"English Patient, The"
+1729,516,49,5,Star Wars
+1730,534,120,4,Independence Day
+1731,327,285,5,"English Patient, The"
+1732,509,287,3,Scream
+1733,168,257,5,Contact
+1734,643,99,4,Fargo
+1735,319,299,4,Air Force One
+1736,352,257,5,Contact
+1737,634,293,3,Liar Liar
+1738,630,285,3,"English Patient, The"
+1739,591,257,5,Contact
+1740,512,180,5,Return of the Jedi
+1741,614,293,3,Liar Liar
+1742,578,287,4,Scream
+1743,563,120,4,Independence Day
+1744,429,293,2,Liar Liar
+1745,624,257,4,Contact
+1746,605,257,4,Contact
+1747,451,285,4,"English Patient, The"
+1748,292,285,3,"English Patient, The"
+1749,369,49,4,Star Wars
+1750,482,0,4,Toy Story
+1751,459,257,3,Contact
+1752,316,287,4,Scream
+1753,267,49,5,Star Wars
+1754,233,180,3,Return of the Jedi
+1755,579,293,4,Liar Liar
+1756,13,287,4,Scream
+1757,110,257,4,Contact
+1758,398,287,3,Scream
+1759,323,49,5,Star Wars
+1760,634,299,3,Air Force One
+1761,0,180,5,Return of the Jedi
+1762,492,257,5,Contact
+1763,488,285,4,"English Patient, The"
+1764,496,287,2,Scream
+1765,73,293,4,Liar Liar
+1766,334,299,5,Air Force One
+1767,416,287,3,Scream
+1768,505,257,4,Contact
+1769,647,287,4,Scream
+1770,632,287,2,Scream
+1771,602,180,5,Return of the Jedi
+1772,106,287,3,Scream
+1773,299,287,4,Scream
+1774,633,285,5,"English Patient, The"
+1775,15,0,5,Toy Story
+1776,442,285,5,"English Patient, The"
+1777,220,180,4,Return of the Jedi
+1778,643,299,5,Air Force One
+1779,469,99,4,Fargo
+1780,25,120,3,Independence Day
+1781,486,299,5,Air Force One
+1782,494,287,4,Scream
+1783,12,285,3,"English Patient, The"
+1784,591,0,4,Toy Story
+1785,555,287,4,Scream
+1786,449,120,3,Independence Day
+1787,420,99,4,Fargo
+1788,637,49,4,Star Wars
+1789,562,49,5,Star Wars
+1790,177,49,5,Star Wars
+1791,626,299,4,Air Force One
+1792,566,180,1,Return of the Jedi
+1793,617,49,5,Star Wars
+1794,548,287,4,Scream
+1795,605,287,4,Scream
+1796,299,299,4,Air Force One
+1797,25,49,4,Star Wars
+1798,525,0,5,Toy Story
+1799,463,285,3,"English Patient, The"
+1800,68,293,2,Liar Liar
+1801,273,299,5,Air Force One
+1802,641,49,5,Star Wars
+1803,643,293,4,Liar Liar
+1804,380,120,2,Independence Day
+1805,160,99,4,Fargo
+1806,62,285,4,"English Patient, The"
+1807,587,287,4,Scream
+1808,520,257,4,Contact
+1809,124,299,5,Air Force One
+1810,377,293,2,Liar Liar
+1811,319,120,5,Independence Day
+1812,541,99,4,Fargo
+1813,499,180,3,Return of the Jedi
+1814,543,257,3,Contact
+1815,312,120,4,Independence Day
+1816,652,49,5,Star Wars
+1817,89,285,5,"English Patient, The"
+1818,641,257,3,Contact
+1819,353,49,4,Star Wars
+1820,306,0,5,Toy Story
+1821,560,257,2,Contact
+1822,343,0,3,Toy Story
+1823,59,49,5,Star Wars
+1824,492,180,5,Return of the Jedi
+1825,581,287,3,Scream
+1826,595,287,4,Scream
+1827,383,299,4,Air Force One
+1828,399,293,3,Liar Liar
+1829,489,285,2,"English Patient, The"
+1830,448,99,5,Fargo
+1831,586,299,4,Air Force One
+1832,434,120,3,Independence Day
+1833,192,293,1,Liar Liar
+1834,546,257,4,Contact
+1835,620,299,3,Air Force One
+1836,454,99,4,Fargo
+1837,653,257,4,Contact
+1838,592,99,5,Fargo
+1839,154,287,3,Scream
+1840,216,299,4,Air Force One
+1841,523,180,3,Return of the Jedi
+1842,461,287,5,Scream
+1843,500,287,4,Scream
+1844,643,49,4,Star Wars
+1845,490,257,4,Contact
+1846,495,49,5,Star Wars
+1847,487,257,4,Contact
+1848,527,180,5,Return of the Jedi
+1849,459,293,2,Liar Liar
+1850,215,99,5,Fargo
+1851,46,287,2,Scream
+1852,616,99,4,Fargo
+1853,183,49,4,Star Wars
+1854,528,293,4,Liar Liar
+1855,589,99,5,Fargo
+1856,595,293,4,Liar Liar
+1857,648,0,5,Toy Story
+1858,379,99,4,Fargo
+1859,444,99,2,Fargo
+1860,322,287,3,Scream
+1861,447,285,2,"English Patient, The"
+1862,415,180,5,Return of the Jedi
+1863,613,287,2,Scream
+1864,497,287,3,Scream
+1865,649,49,5,Star Wars
+1866,620,99,5,Fargo
+1867,279,293,2,Liar Liar
+1868,461,299,5,Air Force One
+1869,178,287,5,Scream
+1870,637,180,5,Return of the Jedi
+1871,314,285,5,"English Patient, The"
+1872,491,285,4,"English Patient, The"
+1873,581,180,4,Return of the Jedi
+1874,220,285,4,"English Patient, The"
+1875,29,49,3,Star Wars
+1876,298,0,3,Toy Story
+1877,323,0,5,Toy Story
+1878,396,99,5,Fargo
+1879,83,257,4,Contact
+1880,353,285,4,"English Patient, The"
+1881,629,257,3,Contact
+1882,654,99,3,Fargo
+1883,314,120,2,Independence Day
+1884,544,0,5,Toy Story
+1885,516,0,3,Toy Story
+1886,235,180,4,Return of the Jedi
+1887,662,180,4,Return of the Jedi
+1888,408,285,5,"English Patient, The"
+1889,456,49,5,Star Wars
+1890,329,99,4,Fargo
+1891,588,293,5,Liar Liar
+1892,200,257,2,Contact
+1893,342,49,5,Star Wars
+1894,551,49,4,Star Wars
+1895,180,299,3,Air Force One
+1896,138,99,5,Fargo
+1897,656,299,2,Air Force One
+1898,263,99,5,Fargo
+1899,599,49,4,Star Wars
+1900,540,120,3,Independence Day
+1901,386,257,4,Contact
+1902,554,287,3,Scream
+1903,643,120,5,Independence Day
+1904,514,257,4,Contact
+1905,547,120,5,Independence Day
+1906,568,120,3,Independence Day
+1907,441,287,4,Scream
+1908,262,49,5,Star Wars
+1909,652,180,4,Return of the Jedi
+1910,544,180,5,Return of the Jedi
+1911,457,120,1,Independence Day
+1912,81,0,4,Toy Story
+1913,586,287,4,Scream
+1914,44,287,3,Scream
+1915,657,0,4,Toy Story
+1916,623,257,4,Contact
+1917,206,285,2,"English Patient, The"
+1918,517,299,3,Air Force One
+1919,465,293,3,Liar Liar
+1920,641,293,5,Liar Liar
+1921,672,293,4,Liar Liar
+1922,619,287,4,Scream
+1923,221,180,4,Return of the Jedi
+1924,618,287,3,Scream
+1925,661,49,3,Star Wars
+1926,77,287,4,Scream
+1927,216,180,1,Return of the Jedi
+1928,509,257,4,Contact
+1929,418,99,5,Fargo
+1930,560,99,4,Fargo
+1931,232,99,4,Fargo
+1932,456,180,4,Return of the Jedi
+1933,459,0,2,Toy Story
+1934,556,287,1,Scream
+1935,569,287,2,Scream
+1936,202,257,3,Contact
+1937,379,257,4,Contact
+1938,470,49,3,Star Wars
+1939,193,293,4,Liar Liar
+1940,429,180,4,Return of the Jedi
+1941,621,0,3,Toy Story
+1942,530,287,1,Scream
+1943,274,120,3,Independence Day
+1944,45,99,4,Fargo
+1945,676,285,1,"English Patient, The"
+1946,251,285,5,"English Patient, The"
+1947,536,180,2,Return of the Jedi
+1948,189,120,3,Independence Day
+1949,591,99,5,Fargo
+1950,331,120,5,Independence Day
+1951,658,257,4,Contact
+1952,601,49,5,Star Wars
+1953,362,49,5,Star Wars
+1954,428,0,3,Toy Story
+1955,609,293,1,Liar Liar
+1956,72,0,2,Toy Story
+1957,152,180,1,Return of the Jedi
+1958,540,49,5,Star Wars
+1959,187,293,2,Liar Liar
+1960,480,49,4,Star Wars
+1961,513,257,4,Contact
+1962,464,257,5,Contact
+1963,580,99,5,Fargo
+1964,667,257,2,Contact
+1965,289,120,4,Independence Day
+1966,387,287,5,Scream
+1967,420,49,5,Star Wars
+1968,619,299,3,Air Force One
+1969,388,299,3,Air Force One
+1970,147,180,5,Return of the Jedi
+1971,672,287,4,Scream
+1972,346,99,3,Fargo
+1973,478,257,5,Contact
+1974,633,99,4,Fargo
+1975,325,0,3,Toy Story
+1976,596,49,5,Star Wars
+1977,537,257,3,Contact
+1978,661,285,3,"English Patient, The"
+1979,532,99,5,Fargo
+1980,545,99,3,Fargo
+1981,509,299,5,Air Force One
+1982,219,257,3,Contact
+1983,333,180,4,Return of the Jedi
+1984,502,49,5,Star Wars
+1985,625,293,3,Liar Liar
+1986,549,49,5,Star Wars
+1987,371,287,5,Scream
+1988,609,287,3,Scream
+1989,84,120,2,Independence Day
+1990,520,120,2,Independence Day
+1991,450,285,1,"English Patient, The"
+1992,390,99,4,Fargo
+1993,606,120,2,Independence Day
+1994,369,180,4,Return of the Jedi
+1995,329,0,5,Toy Story
+1996,120,299,3,Air Force One
+1997,520,49,4,Star Wars
+1998,633,257,4,Contact
+1999,673,293,4,Liar Liar
+2000,440,293,4,Liar Liar
+2001,692,180,3,Return of the Jedi
+2002,200,285,2,"English Patient, The"
+2003,667,293,3,Liar Liar
+2004,370,180,3,Return of the Jedi
+2005,320,285,4,"English Patient, The"
+2006,684,285,1,"English Patient, The"
+2007,471,120,5,Independence Day
+2008,88,49,5,Star Wars
+2009,665,257,4,Contact
+2010,687,287,5,Scream
+2011,434,257,4,Contact
+2012,662,285,3,"English Patient, The"
+2013,628,49,5,Star Wars
+2014,696,293,4,Liar Liar
+2015,531,0,5,Toy Story
+2016,188,49,5,Star Wars
+2017,581,120,3,Independence Day
+2018,636,293,3,Liar Liar
+2019,642,287,4,Scream
+2020,625,285,5,"English Patient, The"
+2021,510,287,4,Scream
+2022,224,285,4,"English Patient, The"
+2023,671,49,3,Star Wars
+2024,644,285,4,"English Patient, The"
+2025,181,49,5,Star Wars
+2026,469,0,3,Toy Story
+2027,426,257,4,Contact
+2028,231,99,5,Fargo
+2029,621,49,5,Star Wars
+2030,175,285,2,"English Patient, The"
+2031,229,120,4,Independence Day
+2032,322,49,5,Star Wars
+2033,256,285,5,"English Patient, The"
+2034,698,99,4,Fargo
+2035,348,99,4,Fargo
+2036,416,257,4,Contact
+2037,678,287,4,Scream
+2038,321,257,4,Contact
+2039,608,257,3,Contact
+2040,588,285,3,"English Patient, The"
+2041,513,180,4,Return of the Jedi
+2042,699,180,5,Return of the Jedi
+2043,480,99,4,Fargo
+2044,619,0,5,Toy Story
+2045,262,0,5,Toy Story
+2046,694,299,1,Air Force One
+2047,245,180,5,Return of the Jedi
+2048,549,287,5,Scream
+2049,27,287,5,Scream
+2050,581,49,5,Star Wars
+2051,290,99,5,Fargo
+2052,42,293,5,Liar Liar
+2053,63,287,4,Scream
+2054,533,293,5,Liar Liar
+2055,493,293,4,Liar Liar
+2056,183,0,4,Toy Story
+2057,653,49,5,Star Wars
+2058,286,99,5,Fargo
+2059,578,285,4,"English Patient, The"
+2060,608,287,2,Scream
+2061,649,285,3,"English Patient, The"
+2062,681,49,5,Star Wars
+2063,642,180,3,Return of the Jedi
+2064,91,257,4,Contact
+2065,549,120,5,Independence Day
+2066,53,99,5,Fargo
+2067,166,287,3,Scream
+2068,425,49,4,Star Wars
+2069,551,285,4,"English Patient, The"
+2070,312,299,4,Air Force One
+2071,618,49,4,Star Wars
+2072,576,0,5,Toy Story
+2073,653,293,3,Liar Liar
+2074,234,49,5,Star Wars
+2075,580,180,3,Return of the Jedi
+2076,626,257,4,Contact
+2077,336,180,2,Return of the Jedi
+2078,129,293,5,Liar Liar
+2079,38,293,4,Liar Liar
+2080,604,299,2,Air Force One
+2081,115,180,4,Return of the Jedi
+2082,465,257,4,Contact
+2083,477,299,3,Air Force One
+2084,693,299,4,Air Force One
+2085,428,180,5,Return of the Jedi
+2086,591,120,4,Independence Day
+2087,247,0,3,Toy Story
+2088,698,0,3,Toy Story
+2089,642,99,5,Fargo
+2090,421,285,5,"English Patient, The"
+2091,21,180,5,Return of the Jedi
+2092,100,287,4,Scream
+2093,533,0,5,Toy Story
+2094,504,0,3,Toy Story
+2095,504,293,3,Liar Liar
+2096,682,285,2,"English Patient, The"
+2097,56,287,4,Scream
+2098,532,293,4,Liar Liar
+2099,176,257,3,Contact
+2100,667,285,4,"English Patient, The"
+2101,591,293,3,Liar Liar
+2102,618,257,5,Contact
+2103,436,285,2,"English Patient, The"
+2104,526,99,5,Fargo
+2105,235,99,3,Fargo
+2106,658,180,3,Return of the Jedi
+2107,111,293,3,Liar Liar
+2108,424,0,2,Toy Story
+2109,607,49,1,Star Wars
+2110,498,299,4,Air Force One
+2111,678,180,5,Return of the Jedi
+2112,655,285,1,"English Patient, The"
+2113,525,49,5,Star Wars
+2114,590,99,5,Fargo
+2115,392,257,4,Contact
+2116,627,299,5,Air Force One
+2117,524,287,4,Scream
+2118,65,285,1,"English Patient, The"
+2119,579,180,5,Return of the Jedi
+2120,697,49,5,Star Wars
+2121,248,257,5,Contact
+2122,659,49,4,Star Wars
+2123,618,299,5,Air Force One
+2124,670,257,5,Contact
+2125,390,257,3,Contact
+2126,588,299,5,Air Force One
+2127,623,287,4,Scream
+2128,637,99,3,Fargo
+2129,0,49,5,Star Wars
+2130,623,285,5,"English Patient, The"
+2131,654,285,3,"English Patient, The"
+2132,307,49,5,Star Wars
+2133,144,180,5,Return of the Jedi
+2134,560,120,3,Independence Day
+2135,327,180,4,Return of the Jedi
+2136,675,180,5,Return of the Jedi
+2137,643,257,4,Contact
+2138,424,99,4,Fargo
+2139,536,287,2,Scream
+2140,677,180,3,Return of the Jedi
+2141,266,99,5,Fargo
+2142,462,257,5,Contact
+2143,229,293,5,Liar Liar
+2144,187,287,4,Scream
+2145,576,99,4,Fargo
+2146,683,120,3,Independence Day
+2147,714,180,4,Return of the Jedi
+2148,452,257,4,Contact
+2149,636,49,4,Star Wars
+2150,387,299,4,Air Force One
+2151,344,299,3,Air Force One
+2152,582,257,4,Contact
+2153,101,257,4,Contact
+2154,387,257,5,Contact
+2155,588,257,2,Contact
+2156,423,287,1,Scream
+2157,453,299,4,Air Force One
+2158,690,0,5,Toy Story
+2159,405,0,4,Toy Story
+2160,653,180,3,Return of the Jedi
+2161,726,180,3,Return of the Jedi
+2162,431,0,2,Toy Story
+2163,574,49,2,Star Wars
+2164,559,99,5,Fargo
+2165,693,49,5,Star Wars
+2166,591,180,3,Return of the Jedi
+2167,501,299,2,Air Force One
+2168,539,293,4,Liar Liar
+2169,645,257,3,Contact
+2170,273,257,5,Contact
+2171,626,120,3,Independence Day
+2172,656,0,3,Toy Story
+2173,544,257,3,Contact
+2174,96,99,2,Fargo
+2175,678,120,2,Independence Day
+2176,701,293,1,Liar Liar
+2177,690,293,4,Liar Liar
+2178,693,120,5,Independence Day
+2179,633,49,4,Star Wars
+2180,429,257,4,Contact
+2181,473,49,5,Star Wars
+2182,331,293,5,Liar Liar
+2183,304,0,5,Toy Story
+2184,88,180,4,Return of the Jedi
+2185,169,257,3,Contact
+2186,486,0,5,Toy Story
+2187,304,299,3,Air Force One
+2188,593,180,3,Return of the Jedi
+2189,76,0,5,Toy Story
+2190,735,180,2,Return of the Jedi
+2191,719,257,4,Contact
+2192,234,0,4,Toy Story
+2193,140,99,4,Fargo
+2194,704,49,4,Star Wars
+2195,78,257,5,Contact
+2196,487,180,4,Return of the Jedi
+2197,99,257,4,Contact
+2198,455,120,2,Independence Day
+2199,93,285,4,"English Patient, The"
+2200,150,0,5,Toy Story
+2201,702,293,2,Liar Liar
+2202,641,0,5,Toy Story
+2203,741,257,5,Contact
+2204,707,0,5,Toy Story
+2205,292,120,3,Independence Day
+2206,421,293,3,Liar Liar
+2207,458,257,3,Contact
+2208,711,180,5,Return of the Jedi
+2209,337,285,4,"English Patient, The"
+2210,244,299,4,Air Force One
+2211,203,287,3,Scream
+2212,168,49,5,Star Wars
+2213,585,180,4,Return of the Jedi
+2214,243,0,4,Toy Story
+2215,342,287,2,Scream
+2216,734,0,4,Toy Story
+2217,501,257,2,Contact
+2218,519,285,5,"English Patient, The"
+2219,254,299,3,Air Force One
+2220,221,293,3,Liar Liar
+2221,237,293,3,Liar Liar
+2222,709,299,3,Air Force One
+2223,489,180,4,Return of the Jedi
+2224,309,49,5,Star Wars
+2225,102,180,4,Return of the Jedi
+2226,698,257,5,Contact
+2227,178,299,4,Air Force One
+2228,631,180,5,Return of the Jedi
+2229,717,299,5,Air Force One
+2230,734,257,4,Contact
+2231,498,49,3,Star Wars
+2232,533,285,3,"English Patient, The"
+2233,112,287,3,Scream
+2234,700,99,5,Fargo
+2235,548,99,4,Fargo
+2236,718,49,2,Star Wars
+2237,438,120,2,Independence Day
+2238,704,120,5,Independence Day
+2239,594,293,2,Liar Liar
+2240,656,285,4,"English Patient, The"
+2241,698,299,3,Air Force One
+2242,545,293,1,Liar Liar
+2243,742,287,2,Scream
+2244,563,299,4,Air Force One
+2245,48,180,1,Return of the Jedi
+2246,706,285,5,"English Patient, The"
+2247,522,0,5,Toy Story
+2248,537,293,3,Liar Liar
+2249,250,299,4,Air Force One
+2250,653,287,3,Scream
+2251,440,120,4,Independence Day
+2252,713,180,5,Return of the Jedi
+2253,748,0,4,Toy Story
+2254,57,180,3,Return of the Jedi
+2255,533,120,4,Independence Day
+2256,616,287,1,Scream
+2257,464,180,3,Return of the Jedi
+2258,691,99,4,Fargo
+2259,431,293,4,Liar Liar
+2260,344,257,4,Contact
+2261,267,293,3,Liar Liar
+2262,716,293,3,Liar Liar
+2263,308,257,5,Contact
+2264,93,120,2,Independence Day
+2265,537,99,4,Fargo
+2266,749,285,4,"English Patient, The"
+2267,647,180,5,Return of the Jedi
+2268,39,299,3,Air Force One
+2269,23,287,3,Scream
+2270,704,0,5,Toy Story
+2271,51,99,4,Fargo
+2272,259,257,3,Contact
+2273,593,49,3,Star Wars
+2274,479,257,3,Contact
+2275,387,99,3,Fargo
+2276,610,285,5,"English Patient, The"
+2277,732,293,2,Liar Liar
+2278,716,99,4,Fargo
+2279,635,0,3,Toy Story
+2280,516,257,5,Contact
+2281,59,285,5,"English Patient, The"
+2282,668,299,4,Air Force One
+2283,504,49,3,Star Wars
+2284,275,0,5,Toy Story
+2285,489,49,5,Star Wars
+2286,151,120,5,Independence Day
+2287,654,293,3,Liar Liar
+2288,530,285,5,"English Patient, The"
+2289,638,299,3,Air Force One
+2290,601,180,5,Return of the Jedi
+2291,562,180,4,Return of the Jedi
+2292,634,0,4,Toy Story
+2293,713,120,4,Independence Day
+2294,751,285,1,"English Patient, The"
+2295,650,285,4,"English Patient, The"
+2296,138,287,4,Scream
+2297,141,293,3,Liar Liar
+2298,467,120,4,Independence Day
+2299,594,180,5,Return of the Jedi
+2300,632,120,3,Independence Day
+2301,589,285,5,"English Patient, The"
+2302,553,99,3,Fargo
+2303,477,0,4,Toy Story
+2304,731,299,4,Air Force One
+2305,645,299,3,Air Force One
+2306,554,120,3,Independence Day
+2307,622,180,5,Return of the Jedi
+2308,607,299,1,Air Force One
+2309,380,0,5,Toy Story
+2310,487,49,4,Star Wars
+2311,756,99,3,Fargo
+2312,406,257,4,Contact
+2313,704,299,5,Air Force One
+2314,556,49,4,Star Wars
+2315,721,299,3,Air Force One
+2316,715,180,4,Return of the Jedi
+2317,757,257,4,Contact
+2318,91,0,4,Toy Story
+2319,602,293,4,Liar Liar
+2320,71,49,2,Star Wars
+2321,613,293,4,Liar Liar
+2322,692,299,2,Air Force One
+2323,483,180,5,Return of the Jedi
+2324,590,299,3,Air Force One
+2325,488,287,4,Scream
+2326,328,285,4,"English Patient, The"
+2327,532,299,4,Air Force One
+2328,720,257,3,Contact
+2329,536,49,4,Star Wars
+2330,295,49,5,Star Wars
+2331,547,99,5,Fargo
+2332,441,293,2,Liar Liar
+2333,673,287,3,Scream
+2334,341,293,3,Liar Liar
+2335,536,293,1,Liar Liar
+2336,99,293,4,Liar Liar
+2337,665,180,2,Return of the Jedi
+2338,720,49,5,Star Wars
+2339,375,287,3,Scream
+2340,457,285,4,"English Patient, The"
+2341,633,120,5,Independence Day
+2342,56,257,5,Contact
+2343,428,287,3,Scream
+2344,679,120,3,Independence Day
+2345,703,49,5,Star Wars
+2346,82,299,3,Air Force One
+2347,174,49,5,Star Wars
+2348,565,287,3,Scream
+2349,665,287,3,Scream
+2350,623,180,4,Return of the Jedi
+2351,505,293,4,Liar Liar
+2352,466,0,4,Toy Story
+2353,654,49,4,Star Wars
+2354,439,299,3,Air Force One
+2355,715,0,5,Toy Story
+2356,301,293,1,Liar Liar
+2357,83,285,5,"English Patient, The"
+2358,729,49,4,Star Wars
+2359,635,257,5,Contact
+2360,637,120,4,Independence Day
+2361,153,257,3,Contact
+2362,732,287,2,Scream
+2363,571,120,2,Independence Day
+2364,539,257,4,Contact
+2365,481,49,4,Star Wars
+2366,762,0,4,Toy Story
+2367,20,49,3,Star Wars
+2368,754,293,3,Liar Liar
+2369,683,180,4,Return of the Jedi
+2370,776,285,2,"English Patient, The"
+2371,654,287,3,Scream
+2372,428,49,5,Star Wars
+2373,258,180,4,Return of the Jedi
+2374,473,287,3,Scream
+2375,553,293,3,Liar Liar
+2376,604,120,1,Independence Day
+2377,464,0,4,Toy Story
+2378,502,285,3,"English Patient, The"
+2379,608,293,2,Liar Liar
+2380,748,120,3,Independence Day
+2381,757,287,4,Scream
+2382,604,287,5,Scream
+2383,760,293,3,Liar Liar
+2384,278,287,3,Scream
+2385,612,0,4,Toy Story
+2386,586,285,4,"English Patient, The"
+2387,173,285,5,"English Patient, The"
+2388,751,299,3,Air Force One
+2389,675,49,5,Star Wars
+2390,587,0,4,Toy Story
+2391,759,180,3,Return of the Jedi
+2392,579,99,3,Fargo
+2393,675,0,5,Toy Story
+2394,642,0,5,Toy Story
+2395,561,0,2,Toy Story
+2396,735,49,3,Star Wars
+2397,462,120,3,Independence Day
+2398,662,257,3,Contact
+2399,294,99,5,Fargo
+2400,232,49,3,Star Wars
+2401,757,49,4,Star Wars
+2402,578,257,5,Contact
+2403,177,0,4,Toy Story
+2404,157,120,4,Independence Day
+2405,332,99,4,Fargo
+2406,553,120,4,Independence Day
+2407,676,0,4,Toy Story
+2408,587,120,5,Independence Day
+2409,723,299,3,Air Force One
+2410,256,120,3,Independence Day
+2411,681,180,5,Return of the Jedi
+2412,407,293,5,Liar Liar
+2413,709,49,4,Star Wars
+2414,673,49,4,Star Wars
+2415,412,49,5,Star Wars
+2416,538,285,4,"English Patient, The"
+2417,627,287,5,Scream
+2418,738,99,5,Fargo
+2419,742,99,5,Fargo
+2420,716,285,3,"English Patient, The"
+2421,499,49,3,Star Wars
+2422,629,287,4,Scream
+2423,770,257,5,Contact
+2424,406,285,4,"English Patient, The"
+2425,782,287,3,Scream
+2426,756,49,4,Star Wars
+2427,513,293,3,Liar Liar
+2428,315,285,5,"English Patient, The"
+2429,80,287,3,Scream
+2430,762,285,4,"English Patient, The"
+2431,552,99,5,Fargo
+2432,115,49,3,Star Wars
+2433,621,293,3,Liar Liar
+2434,12,49,5,Star Wars
+2435,257,285,5,"English Patient, The"
+2436,749,293,4,Liar Liar
+2437,240,299,4,Air Force One
+2438,592,49,4,Star Wars
+2439,663,285,4,"English Patient, The"
+2440,42,120,4,Independence Day
+2441,322,293,3,Liar Liar
+2442,675,299,4,Air Force One
+2443,252,0,5,Toy Story
+2444,452,180,5,Return of the Jedi
+2445,412,257,4,Contact
+2446,438,99,3,Fargo
+2447,537,180,3,Return of the Jedi
+2448,675,287,1,Scream
+2449,629,99,3,Fargo
+2450,696,0,5,Toy Story
+2451,444,180,2,Return of the Jedi
+2452,773,293,1,Liar Liar
+2453,41,293,4,Liar Liar
+2454,461,99,4,Fargo
+2455,451,180,4,Return of the Jedi
+2456,568,285,5,"English Patient, The"
+2457,720,293,3,Liar Liar
+2458,707,49,5,Star Wars
+2459,680,287,1,Scream
+2460,416,99,3,Fargo
+2461,613,0,5,Toy Story
+2462,505,180,5,Return of the Jedi
+2463,780,99,5,Fargo
+2464,379,120,3,Independence Day
+2465,720,299,5,Air Force One
+2466,363,285,5,"English Patient, The"
+2467,416,293,4,Liar Liar
+2468,431,299,4,Air Force One
+2469,490,99,5,Fargo
+2470,544,120,5,Independence Day
+2471,398,120,3,Independence Day
+2472,776,99,1,Fargo
+2473,372,49,5,Star Wars
+2474,494,180,5,Return of the Jedi
+2475,556,299,4,Air Force One
+2476,561,180,3,Return of the Jedi
+2477,424,120,4,Independence Day
+2478,702,257,4,Contact
+2479,797,0,4,Toy Story
+2480,776,0,4,Toy Story
+2481,607,99,4,Fargo
+2482,142,293,3,Liar Liar
+2483,636,0,4,Toy Story
+2484,167,299,5,Air Force One
+2485,54,49,4,Star Wars
+2486,148,299,3,Air Force One
+2487,628,257,4,Contact
+2488,92,120,3,Independence Day
+2489,732,120,3,Independence Day
+2490,423,49,3,Star Wars
+2491,293,180,5,Return of the Jedi
+2492,492,287,4,Scream
+2493,434,99,3,Fargo
+2494,802,285,5,"English Patient, The"
+2495,664,180,4,Return of the Jedi
+2496,486,257,5,Contact
+2497,185,257,1,Contact
+2498,801,293,4,Liar Liar
+2499,394,49,5,Star Wars
+2500,757,285,5,"English Patient, The"
+2501,758,299,5,Air Force One
+2502,801,285,2,"English Patient, The"
+2503,370,0,4,Toy Story
+2504,774,285,4,"English Patient, The"
+2505,525,287,4,Scream
+2506,289,0,5,Toy Story
+2507,769,0,5,Toy Story
+2508,486,285,2,"English Patient, The"
+2509,131,285,3,"English Patient, The"
+2510,373,49,3,Star Wars
+2511,674,257,3,Contact
+2512,604,99,5,Fargo
+2513,792,120,3,Independence Day
+2514,794,99,5,Fargo
+2515,662,49,5,Star Wars
+2516,617,0,4,Toy Story
+2517,483,293,4,Liar Liar
+2518,780,287,2,Scream
+2519,726,293,4,Liar Liar
+2520,572,49,4,Star Wars
+2521,396,180,4,Return of the Jedi
+2522,683,0,4,Toy Story
+2523,701,287,1,Scream
+2524,705,99,1,Fargo
+2525,693,180,5,Return of the Jedi
+2526,523,49,4,Star Wars
+2527,705,49,5,Star Wars
+2528,690,49,4,Star Wars
+2529,561,285,4,"English Patient, The"
+2530,468,285,5,"English Patient, The"
+2531,718,120,1,Independence Day
+2532,408,299,3,Air Force One
+2533,170,285,3,"English Patient, The"
+2534,118,180,4,Return of the Jedi
+2535,592,285,5,"English Patient, The"
+2536,762,257,3,Contact
+2537,665,299,3,Air Force One
+2538,763,99,4,Fargo
+2539,55,299,4,Air Force One
+2540,653,99,1,Fargo
+2541,723,287,4,Scream
+2542,457,180,2,Return of the Jedi
+2543,88,0,5,Toy Story
+2544,264,99,5,Fargo
+2545,774,257,4,Contact
+2546,710,49,4,Star Wars
+2547,705,0,4,Toy Story
+2548,173,49,4,Star Wars
+2549,781,287,4,Scream
+2550,7,180,4,Return of the Jedi
+2551,455,180,3,Return of the Jedi
+2552,738,285,2,"English Patient, The"
+2553,681,99,3,Fargo
+2554,747,257,5,Contact
+2555,781,293,3,Liar Liar
+2556,474,49,5,Star Wars
+2557,755,99,5,Fargo
+2558,81,285,4,"English Patient, The"
+2559,744,285,1,"English Patient, The"
+2560,354,287,5,Scream
+2561,103,49,5,Star Wars
+2562,710,285,4,"English Patient, The"
+2563,467,99,5,Fargo
+2564,492,299,4,Air Force One
+2565,389,285,4,"English Patient, The"
+2566,751,287,5,Scream
+2567,599,180,4,Return of the Jedi
+2568,101,287,2,Scream
+2569,750,49,5,Star Wars
+2570,574,293,1,Liar Liar
+2571,367,99,4,Fargo
+2572,491,99,4,Fargo
+2573,792,293,5,Liar Liar
+2574,5,0,4,Toy Story
+2575,811,287,4,Scream
+2576,399,257,5,Contact
+2577,741,180,3,Return of the Jedi
+2578,499,99,4,Fargo
+2579,750,99,4,Fargo
+2580,729,299,3,Air Force One
+2581,554,180,5,Return of the Jedi
+2582,681,293,3,Liar Liar
+2583,575,49,4,Star Wars
+2584,569,257,3,Contact
+2585,701,299,3,Air Force One
+2586,528,287,4,Scream
+2587,62,0,3,Toy Story
+2588,535,120,4,Independence Day
+2589,673,0,4,Toy Story
+2590,793,49,5,Star Wars
+2591,1,299,4,Air Force One
+2592,699,49,5,Star Wars
+2593,235,49,3,Star Wars
+2594,555,293,2,Liar Liar
+2595,87,285,5,"English Patient, The"
+2596,488,257,5,Contact
+2597,595,180,4,Return of the Jedi
+2598,609,49,4,Star Wars
+2599,512,49,5,Star Wars
+2600,112,257,5,Contact
+2601,653,299,5,Air Force One
+2602,647,0,5,Toy Story
+2603,64,0,3,Toy Story
+2604,496,0,4,Toy Story
+2605,42,257,5,Contact
+2606,601,120,4,Independence Day
+2607,730,0,2,Toy Story
+2608,677,49,4,Star Wars
+2609,52,49,4,Star Wars
+2610,629,299,4,Air Force One
+2611,680,285,5,"English Patient, The"
+2612,514,285,2,"English Patient, The"
+2613,262,257,3,Contact
+2614,496,180,5,Return of the Jedi
+2615,233,285,3,"English Patient, The"
+2616,611,299,4,Air Force One
+2617,597,257,5,Contact
+2618,317,99,5,Fargo
+2619,702,49,5,Star Wars
+2620,486,49,4,Star Wars
+2621,326,285,2,"English Patient, The"
+2622,366,49,5,Star Wars
+2623,377,0,4,Toy Story
+2624,654,0,2,Toy Story
+2625,803,120,4,Independence Day
+2626,391,293,4,Liar Liar
+2627,813,99,4,Fargo
+2628,657,180,3,Return of the Jedi
+2629,394,0,5,Toy Story
+2630,760,180,5,Return of the Jedi
+2631,358,180,5,Return of the Jedi
+2632,767,49,4,Star Wars
+2633,834,0,3,Toy Story
+2634,624,180,4,Return of the Jedi
+2635,724,257,4,Contact
+2636,750,180,5,Return of the Jedi
+2637,769,299,5,Air Force One
+2638,767,0,5,Toy Story
+2639,694,287,4,Scream
+2640,652,299,4,Air Force One
+2641,1,99,5,Fargo
+2642,713,49,5,Star Wars
+2643,769,180,3,Return of the Jedi
+2644,560,180,3,Return of the Jedi
+2645,93,180,4,Return of the Jedi
+2646,618,293,1,Liar Liar
+2647,486,99,5,Fargo
+2648,528,285,4,"English Patient, The"
+2649,565,99,5,Fargo
+2650,41,49,5,Star Wars
+2651,77,293,3,Liar Liar
+2652,405,120,5,Independence Day
+2653,658,49,3,Star Wars
+2654,749,299,3,Air Force One
+2655,401,0,5,Toy Story
+2656,758,257,4,Contact
+2657,531,180,5,Return of the Jedi
+2658,118,285,5,"English Patient, The"
+2659,528,257,4,Contact
+2660,679,99,3,Fargo
+2661,427,285,3,"English Patient, The"
+2662,4,120,4,Independence Day
+2663,807,293,5,Liar Liar
+2664,824,293,4,Liar Liar
+2665,629,49,3,Star Wars
+2666,636,285,5,"English Patient, The"
+2667,815,257,3,Contact
+2668,766,99,5,Fargo
+2669,300,49,5,Star Wars
+2670,739,287,4,Scream
+2671,798,49,4,Star Wars
+2672,515,285,5,"English Patient, The"
+2673,742,299,4,Air Force One
+2674,604,285,4,"English Patient, The"
+2675,475,299,5,Air Force One
+2676,826,257,3,Contact
+2677,801,299,4,Air Force One
+2678,832,120,1,Independence Day
+2679,731,285,5,"English Patient, The"
+2680,831,180,3,Return of the Jedi
+2681,649,287,3,Scream
+2682,551,287,2,Scream
+2683,434,0,5,Toy Story
+2684,133,0,5,Toy Story
+2685,197,49,5,Star Wars
+2686,519,99,4,Fargo
+2687,698,180,3,Return of the Jedi
+2688,816,0,4,Toy Story
+2689,531,99,5,Fargo
+2690,796,49,5,Star Wars
+2691,760,0,1,Toy Story
+2692,16,99,4,Fargo
+2693,563,49,4,Star Wars
+2694,287,293,2,Liar Liar
+2695,673,299,3,Air Force One
+2696,805,120,4,Independence Day
+2697,605,99,5,Fargo
+2698,525,299,2,Air Force One
+2699,633,0,3,Toy Story
+2700,623,293,3,Liar Liar
+2701,773,299,2,Air Force One
+2702,108,287,5,Scream
+2703,657,49,4,Star Wars
+2704,744,99,5,Fargo
+2705,726,120,4,Independence Day
+2706,745,180,5,Return of the Jedi
+2707,812,293,1,Liar Liar
+2708,550,287,4,Scream
+2709,760,49,5,Star Wars
+2710,605,120,4,Independence Day
+2711,500,120,4,Independence Day
+2712,577,257,1,Contact
+2713,131,49,3,Star Wars
+2714,549,293,3,Liar Liar
+2715,806,0,4,Toy Story
+2716,395,120,5,Independence Day
+2717,553,0,3,Toy Story
+2718,847,293,5,Liar Liar
+2719,539,299,3,Air Force One
+2720,748,293,2,Liar Liar
+2721,600,257,5,Contact
+2722,380,293,5,Liar Liar
+2723,829,99,5,Fargo
+2724,680,257,1,Contact
+2725,760,257,4,Contact
+2726,628,285,4,"English Patient, The"
+2727,767,287,4,Scream
+2728,230,49,4,Star Wars
+2729,757,120,2,Independence Day
+2730,563,180,4,Return of the Jedi
+2731,635,120,5,Independence Day
+2732,830,180,5,Return of the Jedi
+2733,698,120,3,Independence Day
+2734,789,0,3,Toy Story
+2735,760,287,4,Scream
+2736,768,257,3,Contact
+2737,215,49,4,Star Wars
+2738,833,257,4,Contact
+2739,833,99,4,Fargo
+2740,503,293,2,Liar Liar
+2741,652,120,4,Independence Day
+2742,829,287,1,Scream
+2743,837,180,5,Return of the Jedi
+2744,757,99,5,Fargo
+2745,404,287,5,Scream
+2746,527,293,3,Liar Liar
+2747,795,120,5,Independence Day
+2748,604,293,4,Liar Liar
+2749,615,285,5,"English Patient, The"
+2750,667,299,4,Air Force One
+2751,825,49,5,Star Wars
+2752,654,257,2,Contact
+2753,396,285,4,"English Patient, The"
+2754,469,180,4,Return of the Jedi
+2755,706,99,5,Fargo
+2756,54,120,3,Independence Day
+2757,846,287,4,Scream
+2758,502,0,5,Toy Story
+2759,620,120,3,Independence Day
+2760,845,257,3,Contact
+2761,724,299,4,Air Force One
+2762,720,287,3,Scream
+2763,779,299,3,Air Force One
+2764,188,180,3,Return of the Jedi
+2765,745,49,5,Star Wars
+2766,704,285,3,"English Patient, The"
+2767,572,257,4,Contact
+2768,422,285,4,"English Patient, The"
+2769,276,257,4,Contact
+2770,834,49,4,Star Wars
+2771,714,287,4,Scream
+2772,229,99,4,Fargo
+2773,579,257,5,Contact
+2774,861,49,5,Star Wars
+2775,790,49,5,Star Wars
+2776,545,180,5,Return of the Jedi
+2777,485,0,4,Toy Story
+2778,291,49,4,Star Wars
+2779,688,120,5,Independence Day
+2780,631,0,3,Toy Story
+2781,117,257,5,Contact
+2782,458,285,4,"English Patient, The"
+2783,724,99,5,Fargo
+2784,803,0,5,Toy Story
+2785,402,99,5,Fargo
+2786,622,120,4,Independence Day
+2787,84,49,5,Star Wars
+2788,744,180,2,Return of the Jedi
+2789,568,257,5,Contact
+2790,773,257,1,Contact
+2791,662,287,4,Scream
+2792,681,120,4,Independence Day
+2793,777,120,3,Independence Day
+2794,726,49,4,Star Wars
+2795,824,49,4,Star Wars
+2796,391,49,5,Star Wars
+2797,855,257,4,Contact
+2798,856,293,3,Liar Liar
+2799,517,120,5,Independence Day
+2800,759,49,3,Star Wars
+2801,840,287,3,Scream
+2802,479,293,1,Liar Liar
+2803,713,299,5,Air Force One
+2804,233,99,4,Fargo
+2805,668,257,2,Contact
+2806,418,49,5,Star Wars
+2807,772,99,4,Fargo
+2808,696,299,5,Air Force One
+2809,336,49,5,Star Wars
+2810,675,257,2,Contact
+2811,783,285,3,"English Patient, The"
+2812,184,285,4,"English Patient, The"
+2813,559,180,4,Return of the Jedi
+2814,541,120,2,Independence Day
+2815,649,180,4,Return of the Jedi
+2816,649,0,3,Toy Story
+2817,506,120,5,Independence Day
+2818,708,293,3,Liar Liar
+2819,863,49,5,Star Wars
+2820,747,49,5,Star Wars
+2821,696,180,4,Return of the Jedi
+2822,830,0,4,Toy Story
+2823,220,120,2,Independence Day
+2824,653,0,4,Toy Story
+2825,769,287,4,Scream
+2826,764,285,5,"English Patient, The"
+2827,268,180,2,Return of the Jedi
+2828,787,120,4,Independence Day
+2829,700,49,5,Star Wars
+2830,685,180,4,Return of the Jedi
+2831,743,49,3,Star Wars
+2832,492,0,3,Toy Story
+2833,364,0,4,Toy Story
+2834,823,285,2,"English Patient, The"
+2835,232,120,4,Independence Day
+2836,585,120,5,Independence Day
+2837,857,285,4,"English Patient, The"
+2838,526,285,2,"English Patient, The"
+2839,548,180,4,Return of the Jedi
+2840,810,293,4,Liar Liar
+2841,709,0,4,Toy Story
+2842,268,120,1,Independence Day
+2843,708,180,4,Return of the Jedi
+2844,499,299,4,Air Force One
+2845,659,99,3,Fargo
+2846,820,180,4,Return of the Jedi
+2847,479,99,4,Fargo
+2848,875,293,4,Liar Liar
+2849,475,293,3,Liar Liar
+2850,600,287,1,Scream
+2851,679,285,4,"English Patient, The"
+2852,442,293,5,Liar Liar
+2853,686,287,4,Scream
+2854,642,49,4,Star Wars
+2855,790,285,3,"English Patient, The"
+2856,557,285,4,"English Patient, The"
+2857,734,99,2,Fargo
+2858,654,180,3,Return of the Jedi
+2859,774,299,4,Air Force One
+2860,861,287,5,Scream
+2861,443,257,3,Contact
+2862,469,285,4,"English Patient, The"
+2863,400,180,3,Return of the Jedi
+2864,788,285,1,"English Patient, The"
+2865,817,285,4,"English Patient, The"
+2866,254,293,2,Liar Liar
+2867,752,49,4,Star Wars
+2868,611,0,4,Toy Story
+2869,860,293,3,Liar Liar
+2870,740,287,4,Scream
+2871,609,0,4,Toy Story
+2872,467,0,5,Toy Story
+2873,295,0,5,Toy Story
+2874,660,299,3,Air Force One
+2875,392,180,4,Return of the Jedi
+2876,495,287,2,Scream
+2877,842,287,4,Scream
+2878,722,0,3,Toy Story
+2879,167,0,5,Toy Story
+2880,529,99,4,Fargo
+2881,391,180,5,Return of the Jedi
+2882,15,99,5,Fargo
+2883,621,99,5,Fargo
+2884,465,287,4,Scream
+2885,568,299,3,Air Force One
+2886,624,285,4,"English Patient, The"
+2887,739,299,4,Air Force One
+2888,91,49,5,Star Wars
+2889,832,49,2,Star Wars
+2890,129,0,5,Toy Story
+2891,50,49,5,Star Wars
+2892,746,49,5,Star Wars
+2893,264,49,2,Star Wars
+2894,840,285,5,"English Patient, The"
+2895,751,293,3,Liar Liar
+2896,705,287,3,Scream
+2897,487,0,3,Toy Story
+2898,473,285,5,"English Patient, The"
+2899,825,293,4,Liar Liar
+2900,871,257,4,Contact
+2901,878,299,3,Air Force One
+2902,756,287,4,Scream
+2903,68,287,5,Scream
+2904,493,285,4,"English Patient, The"
+2905,566,99,1,Fargo
+2906,716,49,4,Star Wars
+2907,248,180,3,Return of the Jedi
+2908,696,285,4,"English Patient, The"
+2909,620,0,3,Toy Story
+2910,697,293,4,Liar Liar
+2911,603,99,5,Fargo
+2912,482,120,2,Independence Day
+2913,396,49,5,Star Wars
+2914,794,180,4,Return of the Jedi
+2915,664,99,3,Fargo
+2916,850,49,5,Star Wars
+2917,494,120,5,Independence Day
+2918,805,285,3,"English Patient, The"
+2919,696,120,4,Independence Day
+2920,581,299,3,Air Force One
+2921,798,257,5,Contact
+2922,429,299,3,Air Force One
+2923,294,49,5,Star Wars
+2924,664,293,2,Liar Liar
+2925,809,293,5,Liar Liar
+2926,867,0,4,Toy Story
+2927,587,180,5,Return of the Jedi
+2928,820,99,2,Fargo
+2929,244,257,4,Contact
+2930,677,0,5,Toy Story
+2931,751,257,3,Contact
+2932,626,287,3,Scream
+2933,790,287,3,Scream
+2934,767,299,5,Air Force One
+2935,872,257,3,Contact
+2936,118,120,4,Independence Day
+2937,778,180,5,Return of the Jedi
+2938,81,99,5,Fargo
+2939,126,257,5,Contact
+2940,490,285,4,"English Patient, The"
+2941,478,293,3,Liar Liar
+2942,668,49,5,Star Wars
+2943,756,180,3,Return of the Jedi
+2944,456,287,4,Scream
+2945,651,287,2,Scream
+2946,369,99,4,Fargo
+2947,727,99,5,Fargo
+2948,810,257,5,Contact
+2949,103,285,1,"English Patient, The"
+2950,469,257,4,Contact
+2951,790,299,5,Air Force One
+2952,662,0,4,Toy Story
+2953,530,299,4,Air Force One
+2954,148,257,3,Contact
+2955,879,49,5,Star Wars
+2956,861,180,5,Return of the Jedi
+2957,513,49,5,Star Wars
+2958,882,49,4,Star Wars
+2959,739,285,5,"English Patient, The"
+2960,423,0,1,Toy Story
+2961,596,0,3,Toy Story
+2962,560,49,3,Star Wars
+2963,560,285,4,"English Patient, The"
+2964,879,180,5,Return of the Jedi
+2965,481,287,3,Scream
+2966,293,285,5,"English Patient, The"
+2967,824,285,4,"English Patient, The"
+2968,299,293,3,Liar Liar
+2969,778,299,3,Air Force One
+2970,511,257,3,Contact
+2971,842,120,3,Independence Day
+2972,652,257,3,Contact
+2973,848,287,5,Scream
+2974,691,293,3,Liar Liar
+2975,829,49,5,Star Wars
+2976,464,99,3,Fargo
+2977,781,257,4,Contact
+2978,668,0,5,Toy Story
+2979,791,99,4,Fargo
+2980,101,293,2,Liar Liar
+2981,771,287,2,Scream
+2982,551,293,4,Liar Liar
+2983,830,99,4,Fargo
+2984,781,285,2,"English Patient, The"
+2985,739,293,4,Liar Liar
+2986,333,257,4,Contact
+2987,631,49,5,Star Wars
+2988,295,180,5,Return of the Jedi
+2989,876,285,2,"English Patient, The"
+2990,476,293,4,Liar Liar
+2991,856,299,3,Air Force One
+2992,827,285,4,"English Patient, The"
+2993,849,299,5,Air Force One
+2994,412,285,5,"English Patient, The"
+2995,118,287,4,Scream
+2996,267,285,5,"English Patient, The"
+2997,884,0,5,Toy Story
+2998,825,287,3,Scream
+2999,755,0,4,Toy Story
+3000,757,293,5,Liar Liar
+3001,391,299,2,Air Force One
+3002,191,99,5,Fargo
+3003,663,49,5,Star Wars
+3004,665,285,5,"English Patient, The"
+3005,859,293,2,Liar Liar
+3006,26,287,3,Scream
+3007,880,293,3,Liar Liar
+3008,866,257,3,Contact
+3009,176,180,4,Return of the Jedi
+3010,787,0,3,Toy Story
+3011,843,49,5,Star Wars
+3012,78,0,4,Toy Story
+3013,697,257,3,Contact
+3014,767,120,4,Independence Day
+3015,300,293,4,Liar Liar
+3016,872,299,4,Air Force One
+3017,823,293,3,Liar Liar
+3018,635,99,5,Fargo
+3019,811,293,5,Liar Liar
+3020,636,120,4,Independence Day
+3021,726,0,3,Toy Story
+3022,857,180,2,Return of the Jedi
+3023,423,99,5,Fargo
+3024,192,120,3,Independence Day
+3025,877,285,4,"English Patient, The"
+3026,878,0,4,Toy Story
+3027,652,293,2,Liar Liar
+3028,50,180,5,Return of the Jedi
+3029,744,257,5,Contact
+3030,896,0,5,Toy Story
+3031,705,293,4,Liar Liar
+3032,398,180,3,Return of the Jedi
+3033,517,287,3,Scream
+3034,449,299,4,Air Force One
+3035,889,180,4,Return of the Jedi
+3036,795,0,2,Toy Story
+3037,789,287,4,Scream
+3038,625,257,4,Contact
+3039,55,49,5,Star Wars
+3040,640,49,3,Star Wars
+3041,792,287,4,Scream
+3042,824,257,4,Contact
+3043,861,120,5,Independence Day
+3044,788,49,5,Star Wars
+3045,886,0,5,Toy Story
+3046,696,287,2,Scream
+3047,170,287,2,Scream
+3048,626,99,5,Fargo
+3049,493,120,4,Independence Day
+3050,745,0,4,Toy Story
+3051,749,287,4,Scream
+3052,598,287,4,Scream
+3053,646,120,4,Independence Day
+3054,601,0,4,Toy Story
+3055,427,293,4,Liar Liar
+3056,633,287,3,Scream
+3057,770,0,5,Toy Story
+3058,830,257,2,Contact
+3059,278,99,4,Fargo
+3060,247,120,2,Independence Day
+3061,890,49,4,Star Wars
+3062,720,180,5,Return of the Jedi
+3063,803,180,5,Return of the Jedi
+3064,506,49,5,Star Wars
+3065,389,257,5,Contact
+3066,696,49,5,Star Wars
+3067,386,180,4,Return of the Jedi
+3068,829,180,5,Return of the Jedi
+3069,728,287,2,Scream
+3070,579,0,3,Toy Story
+3071,793,0,4,Toy Story
+3072,822,285,5,"English Patient, The"
+3073,758,0,5,Toy Story
+3074,901,257,3,Contact
+3075,734,285,5,"English Patient, The"
+3076,628,299,4,Air Force One
+3077,426,285,4,"English Patient, The"
+3078,850,257,4,Contact
+3079,292,99,4,Fargo
+3080,897,287,4,Scream
+3081,902,99,5,Fargo
+3082,689,120,3,Independence Day
+3083,906,99,5,Fargo
+3084,905,99,4,Fargo
+3085,788,293,3,Liar Liar
+3086,192,285,4,"English Patient, The"
+3087,410,0,4,Toy Story
+3088,905,120,4,Independence Day
+3089,408,99,5,Fargo
+3090,871,0,3,Toy Story
+3091,893,287,3,Scream
+3092,274,180,4,Return of the Jedi
+3093,863,293,4,Liar Liar
+3094,835,287,1,Scream
+3095,862,257,5,Contact
+3096,846,257,5,Contact
+3097,756,120,2,Independence Day
+3098,741,49,4,Star Wars
+3099,511,285,5,"English Patient, The"
+3100,394,99,4,Fargo
+3101,308,285,4,"English Patient, The"
+3102,643,180,4,Return of the Jedi
+3103,568,293,2,Liar Liar
+3104,376,257,4,Contact
+3105,820,0,5,Toy Story
+3106,623,0,4,Toy Story
+3107,862,293,4,Liar Liar
+3108,433,287,5,Scream
+3109,758,120,5,Independence Day
+3110,501,287,5,Scream
+3111,788,180,4,Return of the Jedi
+3112,683,99,4,Fargo
+3113,649,293,3,Liar Liar
+3114,851,180,4,Return of the Jedi
+3115,387,0,5,Toy Story
+3116,45,299,3,Air Force One
+3117,886,180,5,Return of the Jedi
+3118,586,293,3,Liar Liar
+3119,904,257,3,Contact
+3120,621,120,1,Independence Day
+3121,737,180,4,Return of the Jedi
+3122,519,293,3,Liar Liar
+3123,448,287,3,Scream
+3124,536,99,4,Fargo
+3125,37,287,5,Scream
+3126,293,257,3,Contact
+3127,743,0,4,Toy Story
+3128,880,49,3,Star Wars
+3129,24,0,5,Toy Story
+3130,465,49,5,Star Wars
+3131,868,180,3,Return of the Jedi
+3132,680,293,5,Liar Liar
+3133,915,99,5,Fargo
+3134,881,293,4,Liar Liar
+3135,795,180,5,Return of the Jedi
+3136,605,293,2,Liar Liar
+3137,338,120,3,Independence Day
+3138,715,49,5,Star Wars
+3139,710,287,1,Scream
+3140,870,49,5,Star Wars
+3141,787,257,4,Contact
+3142,808,285,4,"English Patient, The"
+3143,691,299,4,Air Force One
+3144,437,0,4,Toy Story
+3145,361,299,5,Air Force One
+3146,478,299,2,Air Force One
+3147,909,99,4,Fargo
+3148,869,180,4,Return of the Jedi
+3149,628,293,3,Liar Liar
+3150,221,257,5,Contact
+3151,907,287,4,Scream
+3152,257,293,4,Liar Liar
+3153,43,49,5,Star Wars
+3154,882,0,3,Toy Story
+3155,623,299,4,Air Force One
+3156,186,299,4,Air Force One
+3157,446,293,4,Liar Liar
+3158,838,285,4,"English Patient, The"
+3159,466,257,2,Contact
+3160,317,120,1,Independence Day
+3161,830,49,5,Star Wars
+3162,831,293,4,Liar Liar
+3163,843,257,4,Contact
+3164,284,257,2,Contact
+3165,830,299,3,Air Force One
+3166,865,299,1,Air Force One
+3167,657,99,4,Fargo
+3168,930,49,3,Star Wars
+3169,390,49,4,Star Wars
+3170,780,257,2,Contact
+3171,800,293,5,Liar Liar
+3172,750,299,2,Air Force One
+3173,373,287,4,Scream
+3174,284,299,4,Air Force One
+3175,845,49,5,Star Wars
+3176,926,293,5,Liar Liar
+3177,594,257,4,Contact
+3178,914,287,2,Scream
+3179,651,293,2,Liar Liar
+3180,672,257,2,Contact
+3181,650,293,1,Liar Liar
+3182,908,285,4,"English Patient, The"
+3183,770,293,4,Liar Liar
+3184,876,299,3,Air Force One
+3185,920,0,3,Toy Story
+3186,789,180,4,Return of the Jedi
+3187,454,120,4,Independence Day
+3188,197,180,4,Return of the Jedi
+3189,867,120,2,Independence Day
+3190,782,257,4,Contact
+3191,681,257,3,Contact
+3192,467,49,5,Star Wars
+3193,305,257,2,Contact
+3194,724,180,4,Return of the Jedi
+3195,215,0,4,Toy Story
+3196,225,285,4,"English Patient, The"
+3197,552,180,4,Return of the Jedi
+3198,81,49,5,Star Wars
+3199,70,285,4,"English Patient, The"
+3200,246,120,4,Independence Day
+3201,10,120,3,Independence Day
+3202,933,49,5,Star Wars
+3203,137,0,4,Toy Story
+3204,227,285,5,"English Patient, The"
+3205,902,180,4,Return of the Jedi
+3206,37,293,5,Liar Liar
+3207,892,293,3,Liar Liar
+3208,729,257,5,Contact
+3209,771,299,4,Air Force One
+3210,34,299,5,Air Force One
+3211,373,293,2,Liar Liar
+3212,877,180,3,Return of the Jedi
+3213,294,0,4,Toy Story
+3214,460,257,4,Contact
+3215,852,257,3,Contact
+3216,814,49,5,Star Wars
+3217,772,257,5,Contact
+3218,934,99,3,Fargo
+3219,547,180,4,Return of the Jedi
+3220,255,49,4,Star Wars
+3221,705,180,4,Return of the Jedi
+3222,859,299,4,Air Force One
+3223,788,0,3,Toy Story
+3224,592,287,4,Scream
+3225,858,293,3,Liar Liar
+3226,432,285,5,"English Patient, The"
+3227,902,287,4,Scream
+3228,752,293,5,Liar Liar
+3229,550,293,4,Liar Liar
+3230,904,299,4,Air Force One
+3231,127,257,2,Contact
+3232,565,180,2,Return of the Jedi
+3233,800,287,5,Scream
+3234,901,49,5,Star Wars
+3235,182,120,3,Independence Day
+3236,543,287,2,Scream
+3237,378,285,4,"English Patient, The"
+3238,706,293,2,Liar Liar
+3239,400,285,2,"English Patient, The"
+3240,914,299,3,Air Force One
+3241,849,120,5,Independence Day
+3242,889,257,3,Contact
+3243,615,287,4,Scream
+3244,925,285,4,"English Patient, The"
+3245,814,180,5,Return of the Jedi
+3246,451,99,5,Fargo
+3247,423,285,4,"English Patient, The"
+3248,871,287,5,Scream
+3249,692,120,2,Independence Day
+3250,852,299,5,Air Force One
+3251,297,49,5,Star Wars
+3252,763,120,5,Independence Day
+3253,449,49,5,Star Wars
+3254,326,180,4,Return of the Jedi
+3255,444,299,1,Air Force One
+3256,811,285,2,"English Patient, The"
+3257,894,180,5,Return of the Jedi
+3258,885,0,4,Toy Story
+3259,654,299,3,Air Force One
+3260,302,0,5,Toy Story
+3261,664,49,4,Star Wars
+3262,916,49,3,Star Wars
+3263,819,287,5,Scream
+3264,356,120,5,Independence Day
+3265,335,0,3,Toy Story
+3266,892,0,5,Toy Story
+3267,719,285,5,"English Patient, The"
+3268,549,0,3,Toy Story
+3269,791,0,4,Toy Story
+3270,394,285,4,"English Patient, The"
+3271,909,287,3,Scream
+3272,868,49,4,Star Wars
+3273,12,287,1,Scream
+3274,929,120,4,Independence Day
+3275,510,299,4,Air Force One
+3276,618,180,4,Return of the Jedi
+3277,850,120,4,Independence Day
+3278,822,0,4,Toy Story
+3279,800,299,5,Air Force One
+3280,660,180,5,Return of the Jedi
+3281,833,287,5,Scream
+3282,790,180,5,Return of the Jedi
+3283,763,293,3,Liar Liar
+3284,297,120,4,Independence Day
+3285,57,120,2,Independence Day
+3286,622,285,2,"English Patient, The"
+3287,221,99,5,Fargo
+3288,886,257,1,Contact
+3289,806,120,4,Independence Day
+3290,837,299,2,Air Force One
+3291,499,120,3,Independence Day
+3292,594,287,3,Scream
+3293,710,120,1,Independence Day
+3294,775,49,5,Star Wars
+3295,449,180,4,Return of the Jedi
+3296,918,49,3,Star Wars
+3297,189,99,4,Fargo
+3298,772,0,3,Toy Story
+3299,417,299,3,Air Force One
+3300,688,49,5,Star Wars
+3301,636,180,4,Return of the Jedi
+3302,712,285,3,"English Patient, The"
+3303,837,99,4,Fargo
+3304,923,299,2,Air Force One
+3305,872,293,4,Liar Liar
+3306,907,180,3,Return of the Jedi
+3307,443,285,2,"English Patient, The"
+3308,429,120,2,Independence Day
+3309,573,99,5,Fargo
+3310,831,257,3,Contact
+3311,566,49,1,Star Wars
+3312,455,257,4,Contact
+3313,840,299,4,Air Force One
+3314,828,99,4,Fargo
+3315,355,293,1,Liar Liar
+3316,511,49,5,Star Wars
+3317,920,287,3,Scream
+3318,874,180,4,Return of the Jedi
+3319,895,0,4,Toy Story
+3320,565,120,3,Independence Day
+3321,115,299,3,Air Force One
+3322,897,299,2,Air Force One
+3323,525,293,3,Liar Liar
+3324,863,0,5,Toy Story
+3325,755,180,4,Return of the Jedi
+3326,282,99,4,Fargo
+3327,920,180,5,Return of the Jedi
+3328,938,257,4,Contact
+3329,906,180,4,Return of the Jedi
+3330,63,257,3,Contact
+3331,714,0,5,Toy Story
+3332,795,257,4,Contact
+3333,473,293,3,Liar Liar
+3334,534,99,5,Fargo
+3335,939,180,3,Return of the Jedi
+3336,289,180,5,Return of the Jedi
+3337,877,49,4,Star Wars
+3338,843,299,3,Air Force One
+3339,833,49,5,Star Wars
+3340,14,120,3,Independence Day
+3341,365,287,4,Scream
+3342,866,49,5,Star Wars
+3343,830,287,1,Scream
+3344,707,299,4,Air Force One
+3345,456,120,4,Independence Day
+3346,413,287,5,Scream
+3347,912,0,2,Toy Story
+3348,795,49,5,Star Wars
+3349,849,180,5,Return of the Jedi
+3350,349,180,4,Return of the Jedi
+3351,836,285,4,"English Patient, The"
+3352,702,180,5,Return of the Jedi
+3353,484,285,2,"English Patient, The"
+3354,724,285,5,"English Patient, The"
+3355,430,293,5,Liar Liar
+3356,755,257,3,Contact
+3357,459,99,5,Fargo
+3358,8,49,5,Star Wars
+3359,747,180,4,Return of the Jedi
+3360,642,120,4,Independence Day
+3361,867,49,5,Star Wars
+3362,479,49,4,Star Wars
+3363,748,99,3,Fargo
+3364,755,120,3,Independence Day
+3365,343,49,5,Star Wars
+3366,649,120,3,Independence Day
+3367,524,99,4,Fargo
+3368,499,285,1,"English Patient, The"
+3369,843,180,5,Return of the Jedi
+3370,899,120,2,Independence Day
+3371,723,285,1,"English Patient, The"
+3372,328,49,4,Star Wars
+3373,550,99,4,Fargo
+3374,877,99,2,Fargo
+3375,665,120,3,Independence Day
+3376,752,285,3,"English Patient, The"
+3377,142,285,2,"English Patient, The"
+3378,862,287,4,Scream
+3379,133,293,4,Liar Liar
+3380,514,299,5,Air Force One
+3381,656,293,5,Liar Liar
+3382,291,180,4,Return of the Jedi
+3383,42,99,4,Fargo
+3384,617,287,3,Scream
+3385,457,0,4,Toy Story
+3386,880,99,4,Fargo
+3387,918,285,4,"English Patient, The"
+3388,623,99,5,Fargo
+3389,759,287,4,Scream
+3390,487,293,4,Liar Liar
+3391,805,49,5,Star Wars
+3392,835,257,4,Contact
+3393,883,299,1,Air Force One
+3394,885,287,4,Scream
+3395,908,299,5,Air Force One
+3396,549,180,5,Return of the Jedi
+3397,682,299,3,Air Force One
+3398,226,99,5,Fargo
+3399,624,99,3,Fargo
+3400,785,120,2,Independence Day
+3401,853,287,5,Scream
+3402,489,99,3,Fargo
+3403,801,257,5,Contact
+3404,740,120,2,Independence Day
+3405,659,293,3,Liar Liar
+3406,741,0,4,Toy Story
+3407,670,49,5,Star Wars
+3408,648,49,4,Star Wars
+3409,919,299,3,Air Force One
+3410,577,287,3,Scream
+3411,525,120,2,Independence Day
+3412,799,299,4,Air Force One
+3413,754,287,1,Scream
+3414,230,299,4,Air Force One
+3415,248,49,4,Star Wars
+3416,551,180,3,Return of the Jedi
+3417,447,257,4,Contact
+3418,795,285,2,"English Patient, The"
+3419,922,180,5,Return of the Jedi
+3420,539,180,4,Return of the Jedi
+3421,845,293,3,Liar Liar
+3422,815,287,4,Scream
+3423,829,0,4,Toy Story
+3424,129,299,5,Air Force One
+3425,866,180,5,Return of the Jedi
+3426,732,0,2,Toy Story
+3427,379,49,4,Star Wars
+3428,930,120,2,Independence Day
+3429,620,49,5,Star Wars
+3430,880,285,2,"English Patient, The"
+3431,252,120,5,Independence Day
+3432,517,0,4,Toy Story
+3433,184,49,4,Star Wars
+3434,292,0,2,Toy Story
+3435,462,0,1,Toy Story
+3436,863,99,5,Fargo
+3437,846,120,3,Independence Day
+3438,536,120,1,Independence Day
+3439,629,0,4,Toy Story
+3440,454,49,5,Star Wars
+3441,933,99,4,Fargo
+3442,264,287,4,Scream
+3443,547,285,1,"English Patient, The"
+3444,189,257,3,Contact
+3445,716,299,5,Air Force One
+3446,928,0,3,Toy Story
+3447,849,293,5,Liar Liar
+3448,386,285,2,"English Patient, The"
+3449,787,99,5,Fargo
+3450,795,99,3,Fargo
+3451,617,180,5,Return of the Jedi
+3452,825,180,5,Return of the Jedi
+3453,839,299,3,Air Force One
+3454,883,257,5,Contact
+3455,809,287,3,Scream
+3456,596,180,4,Return of the Jedi
+3457,853,293,2,Liar Liar
+3458,852,287,4,Scream
+3459,676,299,5,Air Force One
+3460,514,293,3,Liar Liar
+3461,605,180,5,Return of the Jedi
+3462,692,257,4,Contact
+3463,713,0,3,Toy Story
+3464,522,257,5,Contact
+3465,434,180,5,Return of the Jedi
+3466,678,0,3,Toy Story
+3467,454,180,4,Return of the Jedi
+3468,605,49,5,Star Wars
+3469,431,287,5,Scream
+3470,678,293,1,Liar Liar
+3471,899,293,4,Liar Liar
+3472,151,293,4,Liar Liar
+3473,102,293,4,Liar Liar
+3474,392,287,3,Scream
+3475,288,120,3,Independence Day
+3476,698,49,3,Star Wars
+3477,735,285,4,"English Patient, The"
+3478,436,120,3,Independence Day
+3479,214,180,4,Return of the Jedi
+3480,922,287,5,Scream
+3481,794,120,3,Independence Day
+3482,923,0,5,Toy Story
+3483,670,180,5,Return of the Jedi
+3484,770,180,4,Return of the Jedi
+3485,76,120,2,Independence Day
+3486,126,49,4,Star Wars
+3487,258,293,3,Liar Liar
+3488,536,285,3,"English Patient, The"
+3489,660,257,4,Contact
+3490,335,293,4,Liar Liar
+3491,880,120,5,Independence Day
+3492,525,99,5,Fargo
+3493,859,285,4,"English Patient, The"
+3494,870,257,5,Contact
+3495,482,49,5,Star Wars
+3496,575,293,3,Liar Liar
+3497,838,49,5,Star Wars
+3498,543,293,2,Liar Liar
+3499,185,293,3,Liar Liar
+3500,551,99,4,Fargo
+3501,323,285,5,"English Patient, The"
+3502,209,0,5,Toy Story
+3503,651,285,3,"English Patient, The"
+3504,607,285,4,"English Patient, The"
+3505,942,180,4,Return of the Jedi
+3506,689,293,3,Liar Liar
+3507,17,99,5,Fargo
+3508,808,257,3,Contact
+3509,807,285,4,"English Patient, The"
+3510,891,99,5,Fargo
+3511,296,180,4,Return of the Jedi
+3512,938,120,5,Independence Day
+3513,721,99,4,Fargo
+3514,923,120,4,Independence Day
+3515,824,180,4,Return of the Jedi
+3516,586,257,4,Contact
+3517,624,293,3,Liar Liar
+3518,935,180,4,Return of the Jedi
+3519,804,287,1,Scream
+3520,627,257,5,Contact
+3521,674,285,4,"English Patient, The"
+3522,732,285,4,"English Patient, The"
+3523,789,49,4,Star Wars
+3524,772,120,2,Independence Day
+3525,311,49,5,Star Wars
+3526,648,180,4,Return of the Jedi
+3527,833,293,3,Liar Liar
+3528,933,120,3,Independence Day
+3529,659,0,3,Toy Story
+3530,887,285,5,"English Patient, The"
+3531,355,257,5,Contact
+3532,120,49,5,Star Wars
+3533,697,0,4,Toy Story
+3534,500,99,4,Fargo
+3535,729,99,5,Fargo
+3536,142,287,5,Scream
+3537,644,257,3,Contact
+3538,897,285,2,"English Patient, The"
+3539,863,180,5,Return of the Jedi
+3540,934,120,4,Independence Day
+3541,707,257,5,Contact
+3542,541,180,4,Return of the Jedi
+3543,915,49,5,Star Wars
+3544,24,120,4,Independence Day
+3545,610,287,3,Scream
+3546,937,299,3,Air Force One
+3547,493,180,4,Return of the Jedi
+3548,925,299,3,Air Force One
+3549,901,293,2,Liar Liar
+3550,834,293,3,Liar Liar
+3551,378,180,4,Return of the Jedi
+3552,572,285,3,"English Patient, The"
+3553,678,49,5,Star Wars
+3554,424,293,2,Liar Liar
+3555,667,49,5,Star Wars
+3556,864,293,4,Liar Liar
+3557,925,287,3,Scream
+3558,585,287,4,Scream
+3559,879,99,5,Fargo
+3560,921,49,5,Star Wars
+3561,702,299,4,Air Force One
+3562,901,180,3,Return of the Jedi
+3563,940,180,5,Return of the Jedi
+3564,698,287,3,Scream
+3565,763,0,4,Toy Story
+3566,647,120,5,Independence Day
+3567,923,257,3,Contact
+3568,805,180,2,Return of the Jedi
+3569,804,0,4,Toy Story
+3570,664,0,4,Toy Story
+3571,302,120,3,Independence Day
+3572,728,299,4,Air Force One
+3573,500,293,3,Liar Liar
+3574,629,120,4,Independence Day
+3575,701,257,5,Contact
+3576,527,257,4,Contact
+3577,57,0,5,Toy Story
+3578,128,299,3,Air Force One
+3579,617,120,4,Independence Day
+3580,891,49,5,Star Wars
+3581,837,285,4,"English Patient, The"
+3582,899,287,2,Scream
+3583,879,287,4,Scream
+3584,716,287,1,Scream
+3585,241,293,4,Liar Liar
+3586,839,120,2,Independence Day
+3587,857,99,3,Fargo
+3588,888,120,4,Independence Day
+3589,600,293,1,Liar Liar
+3590,506,287,5,Scream
+3591,929,287,1,Scream
+3592,568,99,5,Fargo
+3593,876,257,4,Contact
+3594,392,120,4,Independence Day
+3595,86,120,5,Independence Day
+3596,799,293,3,Liar Liar
+3597,710,180,4,Return of the Jedi
+3598,926,287,5,Scream
+3599,614,99,3,Fargo
+3600,752,180,3,Return of the Jedi
+3601,309,293,1,Liar Liar
+3602,428,99,5,Fargo
+3603,425,99,4,Fargo
+3604,930,257,3,Contact
+3605,49,99,2,Fargo
+3606,796,180,5,Return of the Jedi
+3607,638,285,4,"English Patient, The"
+3608,231,293,2,Liar Liar
+3609,728,293,2,Liar Liar
+3610,940,257,4,Contact
+3611,250,0,4,Toy Story
+3612,601,293,5,Liar Liar
+3613,569,285,4,"English Patient, The"
+3614,548,0,5,Toy Story
+3615,414,257,4,Contact
+3616,231,49,4,Star Wars
+3617,686,299,4,Air Force One
+3618,750,0,3,Toy Story
+3619,754,299,4,Air Force One
+3620,697,99,2,Fargo
+3621,245,49,5,Star Wars
+3622,435,49,4,Star Wars
+3623,769,257,5,Contact
+3624,883,99,5,Fargo
+3625,786,299,4,Air Force One
+3626,870,120,4,Independence Day
+3627,545,257,4,Contact
+3628,923,285,3,"English Patient, The"
+3629,221,49,4,Star Wars
+3630,810,285,5,"English Patient, The"
+3631,692,287,2,Scream
+3632,793,180,4,Return of the Jedi
+3633,937,180,5,Return of the Jedi
+3634,662,99,4,Fargo
+3635,15,285,2,"English Patient, The"
+3636,809,299,5,Air Force One
+3637,573,287,4,Scream
+3638,926,299,5,Air Force One
+3639,451,49,5,Star Wars
+3640,664,285,4,"English Patient, The"
+3641,110,285,4,"English Patient, The"
+3642,809,285,4,"English Patient, The"
+3643,726,257,2,Contact
+3644,853,49,4,Star Wars
+3645,861,99,5,Fargo
+3646,496,293,4,Liar Liar
+3647,894,49,5,Star Wars
+3648,628,99,5,Fargo
+3649,734,180,4,Return of the Jedi
+3650,784,0,4,Toy Story
+3651,779,285,4,"English Patient, The"
+3652,796,285,2,"English Patient, The"
+3653,775,180,4,Return of the Jedi
+3654,653,120,4,Independence Day
+3655,817,299,2,Air Force One
+3656,547,49,5,Star Wars
+3657,346,120,3,Independence Day
+3658,700,299,3,Air Force One
+3659,896,49,5,Star Wars
+3660,766,299,4,Air Force One
+3661,222,287,3,Scream
+3662,893,120,3,Independence Day
+3663,815,293,5,Liar Liar
+3664,874,299,3,Air Force One
+3665,651,299,4,Air Force One
+3666,784,287,3,Scream
+3667,595,299,4,Air Force One
+3668,579,285,4,"English Patient, The"
+3669,807,299,4,Air Force One
+3670,56,49,5,Star Wars
+3671,868,293,3,Liar Liar
+3672,169,293,3,Liar Liar
+3673,851,49,5,Star Wars
+3674,888,299,3,Air Force One
+3675,856,257,5,Contact
+3676,327,120,4,Independence Day
+3677,608,0,1,Toy Story
+3678,903,299,4,Air Force One
+3679,386,99,5,Fargo
+3680,545,49,5,Star Wars
+3681,705,257,4,Contact
+3682,60,293,2,Liar Liar
+3683,485,287,4,Scream
+3684,539,285,4,"English Patient, The"
+3685,4,180,5,Return of the Jedi
+3686,900,180,4,Return of the Jedi
+3687,708,49,5,Star Wars
+3688,143,99,5,Fargo
+3689,740,180,4,Return of the Jedi
+3690,697,180,3,Return of the Jedi
+3691,902,0,3,Toy Story
+3692,567,99,4,Fargo
+3693,21,49,5,Star Wars
+3694,741,99,5,Fargo
+3695,793,285,3,"English Patient, The"
+3696,756,257,5,Contact
+3697,707,120,3,Independence Day
+3698,315,99,4,Fargo
+3699,918,99,5,Fargo
+3700,764,49,2,Star Wars
+3701,688,299,5,Air Force One
+3702,720,285,5,"English Patient, The"
+3703,673,120,4,Independence Day
+3704,667,287,4,Scream
+3705,935,49,4,Star Wars
+3706,702,0,4,Toy Story
+3707,748,257,4,Contact
+3708,532,120,4,Independence Day
+3709,804,49,4,Star Wars
+3710,765,49,4,Star Wars
+3711,619,99,1,Fargo
+3712,807,287,3,Scream
+3713,780,180,5,Return of the Jedi
+3714,769,49,3,Star Wars
+3715,654,120,3,Independence Day
+3716,579,49,5,Star Wars
+3717,474,257,1,Contact
+3718,548,120,4,Independence Day
+3719,843,120,3,Independence Day
+3720,768,120,4,Independence Day
+3721,672,299,3,Air Force One
+3722,612,49,5,Star Wars
+3723,881,49,5,Star Wars
+3724,83,99,4,Fargo
+3725,852,293,2,Liar Liar
+3726,901,299,4,Air Force One
+3727,122,287,3,Scream
+3728,874,49,5,Star Wars
+3729,441,120,2,Independence Day
+3730,742,293,2,Liar Liar
+3731,729,180,2,Return of the Jedi
+3732,652,285,4,"English Patient, The"
+3733,359,257,4,Contact
+3734,458,49,4,Star Wars
+3735,668,180,5,Return of the Jedi
+3736,41,180,5,Return of the Jedi
+3737,806,180,5,Return of the Jedi
+3738,290,49,5,Star Wars
+3739,805,257,3,Contact
+3740,554,257,3,Contact
+3741,534,257,5,Contact
+3742,596,293,4,Liar Liar
+3743,497,180,2,Return of the Jedi
+3744,71,0,4,Toy Story
+3745,778,257,5,Contact
+3746,864,120,1,Independence Day
+3747,782,299,4,Air Force One
+3748,783,257,5,Contact
+3749,874,257,4,Contact
+3750,142,257,3,Contact
+3751,111,257,3,Contact
+3752,823,287,3,Scream
+3753,270,99,5,Fargo
+3754,853,99,5,Fargo
+3755,723,257,4,Contact
+3756,628,287,4,Scream
+3757,722,257,4,Contact
+3758,711,49,4,Star Wars
+3759,732,257,3,Contact
+3760,105,99,3,Fargo
+3761,863,285,5,"English Patient, The"
+3762,893,257,4,Contact
+3763,672,285,4,"English Patient, The"
+3764,898,49,5,Star Wars
+3765,748,299,4,Air Force One
+3766,441,180,4,Return of the Jedi
+3767,786,257,5,Contact
+3768,717,120,4,Independence Day
+3769,209,120,4,Independence Day
+3770,276,99,4,Fargo
+3771,822,99,5,Fargo
+3772,939,299,5,Air Force One
+3773,561,49,5,Star Wars
+3774,825,0,4,Toy Story
+3775,313,0,5,Toy Story
+3776,820,120,3,Independence Day
+3777,551,120,4,Independence Day
+3778,648,120,2,Independence Day
+3779,1,287,3,Scream
+3780,715,120,5,Independence Day
+3781,44,180,4,Return of the Jedi
+3782,554,49,5,Star Wars
+3783,184,257,4,Contact
+3784,132,285,2,"English Patient, The"
+3785,67,180,5,Return of the Jedi
+3786,765,180,4,Return of the Jedi
+3787,649,99,4,Fargo
+3788,890,285,5,"English Patient, The"
+3789,503,180,3,Return of the Jedi
+3790,882,285,3,"English Patient, The"
+3791,14,257,3,Contact
+3792,888,49,4,Star Wars
+3793,199,287,5,Scream
+3794,424,180,4,Return of the Jedi
+3795,594,49,5,Star Wars
+3796,772,180,5,Return of the Jedi
+3797,726,99,2,Fargo
+3798,895,49,5,Star Wars
+3799,836,293,4,Liar Liar
+3800,480,180,5,Return of the Jedi
+3801,834,287,2,Scream
+3802,702,287,4,Scream
+3803,818,299,5,Air Force One
+3804,762,99,5,Fargo
+3805,915,0,4,Toy Story
+3806,287,257,4,Contact
+3807,353,180,4,Return of the Jedi
+3808,615,257,4,Contact
+3809,810,299,5,Air Force One
+3810,831,285,3,"English Patient, The"
+3811,619,180,4,Return of the Jedi
+3812,150,257,5,Contact
+3813,662,120,4,Independence Day
+3814,594,120,2,Independence Day
+3815,825,257,4,Contact
+3816,490,293,2,Liar Liar
+3817,585,49,4,Star Wars
+3818,502,99,5,Fargo
+3819,932,0,3,Toy Story
+3820,683,49,4,Star Wars
+3821,342,285,4,"English Patient, The"
+3822,460,293,3,Liar Liar
+3823,936,299,4,Air Force One
+3824,836,257,4,Contact
+3825,867,180,5,Return of the Jedi
+3826,386,0,4,Toy Story
+3827,832,99,4,Fargo
+3828,886,293,5,Liar Liar
+3829,397,99,3,Fargo
+3830,629,180,3,Return of the Jedi
+3831,296,293,3,Liar Liar
+3832,789,293,2,Liar Liar
+3833,796,299,2,Air Force One
+3834,879,257,4,Contact
+3835,791,120,4,Independence Day
+3836,624,120,3,Independence Day
+3837,107,0,4,Toy Story
+3838,444,287,2,Scream
+3839,600,120,2,Independence Day
+3840,471,293,4,Liar Liar
+3841,779,293,3,Liar Liar
+3842,848,120,5,Independence Day
+3843,627,293,4,Liar Liar
+3844,787,285,5,"English Patient, The"
+3845,641,287,1,Scream
+3846,177,99,4,Fargo
+3847,762,49,4,Star Wars
+3848,600,49,5,Star Wars
+3849,388,0,4,Toy Story
+3850,270,180,5,Return of the Jedi
+3851,46,285,3,"English Patient, The"
+3852,235,293,2,Liar Liar
+3853,797,257,4,Contact
+3854,798,285,5,"English Patient, The"
+3855,838,120,3,Independence Day
+3856,697,299,4,Air Force One
+3857,852,285,3,"English Patient, The"
+3858,797,120,5,Independence Day
+3859,847,180,5,Return of the Jedi
+3860,552,0,3,Toy Story
+3861,579,120,4,Independence Day
+3862,785,180,4,Return of the Jedi
+3863,181,0,4,Toy Story
+3864,895,120,3,Independence Day
+3865,463,287,4,Scream
+3866,941,49,5,Star Wars
+3867,780,285,1,"English Patient, The"
+3868,740,49,5,Star Wars
+3869,389,299,5,Air Force One
+3870,816,257,3,Contact
+3871,446,180,5,Return of the Jedi
+3872,755,49,4,Star Wars
+3873,734,287,4,Scream
+3874,920,120,5,Independence Day
+3875,838,257,4,Contact
+3876,487,285,1,"English Patient, The"
+3877,658,293,4,Liar Liar
+3878,240,285,5,"English Patient, The"
+3879,918,0,4,Toy Story
+3880,834,285,3,"English Patient, The"
+3881,312,180,4,Return of the Jedi
+3882,112,299,3,Air Force One
+3883,568,287,3,Scream
+3884,131,99,4,Fargo
+3885,675,293,4,Liar Liar
+3886,889,49,5,Star Wars
+3887,493,299,5,Air Force One
+3888,632,49,4,Star Wars
+3889,402,0,4,Toy Story
+3890,872,285,2,"English Patient, The"
+3891,405,99,4,Fargo
+3892,677,99,5,Fargo
+3893,686,293,3,Liar Liar
+3894,842,257,4,Contact
+3895,660,0,5,Toy Story
+3896,839,49,4,Star Wars
+3897,358,49,5,Star Wars
+3898,828,293,2,Liar Liar
+3899,676,293,5,Liar Liar
+3900,503,120,4,Independence Day
+3901,886,287,4,Scream
+3902,695,285,5,"English Patient, The"
+3903,721,293,2,Liar Liar
+3904,579,287,5,Scream
+3905,703,299,2,Air Force One
+3906,125,285,3,"English Patient, The"
+3907,592,120,4,Independence Day
+3908,217,287,2,Scream
+3909,734,49,5,Star Wars
+3910,154,299,2,Air Force One
+3911,387,293,4,Liar Liar
+3912,792,99,4,Fargo
+3913,458,293,5,Liar Liar
+3914,731,287,4,Scream
+3915,814,0,5,Toy Story
+3916,898,120,5,Independence Day
+3917,772,287,2,Scream
+3918,778,120,3,Independence Day
+3919,708,120,4,Independence Day
+3920,735,293,3,Liar Liar
+3921,623,120,3,Independence Day
+3922,715,293,4,Liar Liar
+3923,446,49,5,Star Wars
+3924,555,285,4,"English Patient, The"
+3925,842,49,3,Star Wars
+3926,849,49,5,Star Wars
+3927,90,299,4,Air Force One
+3928,729,293,4,Liar Liar
+3929,333,120,3,Independence Day
+3930,547,299,5,Air Force One
+3931,90,293,3,Liar Liar
+3932,427,287,4,Scream
+3933,892,257,3,Contact
+3934,900,120,4,Independence Day
+3935,839,99,5,Fargo
+3936,300,257,4,Contact
+3937,783,299,4,Air Force One
+3938,559,120,3,Independence Day
+3939,187,49,4,Star Wars
+3940,853,0,3,Toy Story
+3941,745,120,3,Independence Day
+3942,239,285,5,"English Patient, The"
+3943,670,287,5,Scream
+3944,862,299,5,Air Force One
+3945,942,120,3,Independence Day
+3946,887,99,4,Fargo
+3947,504,180,3,Return of the Jedi
+3948,837,257,5,Contact
+3949,828,285,4,"English Patient, The"
+3950,930,299,5,Air Force One
+3951,746,287,4,Scream
+3952,330,0,1,Toy Story
+3953,22,180,4,Return of the Jedi
+3954,876,287,3,Scream
+3955,618,120,5,Independence Day
+3956,145,293,1,Liar Liar
+3957,889,0,4,Toy Story
+3958,882,99,4,Fargo
+3959,801,287,3,Scream
+3960,754,257,5,Contact
+3961,698,285,3,"English Patient, The"
+3962,860,285,4,"English Patient, The"
+3963,826,293,4,Liar Liar
+3964,744,49,2,Star Wars
+3965,870,299,4,Air Force One
+3966,826,287,3,Scream
+3967,763,49,3,Star Wars
+3968,661,99,5,Fargo
+3969,516,293,1,Liar Liar
+3970,869,287,4,Scream
+3971,713,257,4,Contact
+3972,123,0,3,Toy Story
+3973,328,293,2,Liar Liar
+3974,143,293,4,Liar Liar
+3975,646,299,4,Air Force One
+3976,866,285,5,"English Patient, The"
+3977,713,99,1,Fargo
+3978,737,49,5,Star Wars
+3979,814,257,4,Contact
+3980,891,120,4,Independence Day
+3981,403,285,1,"English Patient, The"
+3982,645,293,2,Liar Liar
+3983,782,285,3,"English Patient, The"
+3984,449,285,4,"English Patient, The"
+3985,436,99,4,Fargo
+3986,822,293,3,Liar Liar
+3987,881,0,5,Toy Story
+3988,805,287,3,Scream
+3989,778,0,4,Toy Story
+3990,459,287,2,Scream
+3991,38,287,5,Scream
+3992,467,285,4,"English Patient, The"
+3993,204,293,3,Liar Liar
+3994,741,293,3,Liar Liar
+3995,326,120,2,Independence Day
+3996,630,287,3,Scream
+3997,759,299,1,Air Force One
+3998,737,257,4,Contact
+3999,633,293,4,Liar Liar
+4000,541,0,4,Toy Story
+4001,679,49,5,Star Wars
+4002,915,180,4,Return of the Jedi
+4003,571,285,4,"English Patient, The"
+4004,929,299,4,Air Force One
+4005,851,0,4,Toy Story
+4006,604,0,4,Toy Story
+4007,398,0,4,Toy Story
+4008,98,293,4,Liar Liar
+4009,936,257,4,Contact
+4010,746,285,4,"English Patient, The"
+4011,770,285,2,"English Patient, The"
+4012,293,0,5,Toy Story
+4013,921,293,4,Liar Liar
+4014,662,299,4,Air Force One
+4015,552,49,4,Star Wars
+4016,456,293,2,Liar Liar
+4017,838,99,3,Fargo
+4018,693,99,4,Fargo
+4019,300,287,4,Scream
+4020,607,287,5,Scream
+4021,757,180,4,Return of the Jedi
+4022,903,287,4,Scream
+4023,936,285,4,"English Patient, The"
+4024,769,293,3,Liar Liar
+4025,678,99,3,Fargo
+4026,939,285,3,"English Patient, The"
+4027,546,293,1,Liar Liar
+4028,939,293,4,Liar Liar
+4029,871,299,5,Air Force One
+4030,167,180,4,Return of the Jedi
+4031,602,49,5,Star Wars
+4032,676,287,5,Scream
+4033,930,285,5,"English Patient, The"
+4034,922,99,5,Fargo
+4035,553,49,4,Star Wars
+4036,869,0,5,Toy Story
+4037,869,257,4,Contact
+4038,906,285,5,"English Patient, The"
+4039,869,49,3,Star Wars
+4040,773,120,1,Independence Day
+4041,906,293,4,Liar Liar
+4042,721,285,4,"English Patient, The"
+4043,383,257,4,Contact
+4044,898,257,5,Contact
+4045,591,285,5,"English Patient, The"
+4046,904,293,3,Liar Liar
+4047,904,99,4,Fargo
+4048,276,0,4,Toy Story
+4049,466,180,3,Return of the Jedi
+4050,258,285,4,"English Patient, The"
+4051,689,0,4,Toy Story
+4052,597,285,5,"English Patient, The"
+4053,711,293,4,Liar Liar
+4054,935,257,3,Contact
+4055,382,285,5,"English Patient, The"
+4056,890,99,5,Fargo
+4057,878,293,3,Liar Liar
+4058,803,49,4,Star Wars
+4059,842,180,3,Return of the Jedi
+4060,893,299,4,Air Force One
+4061,607,293,3,Liar Liar
+4062,802,299,3,Air Force One
+4063,428,120,3,Independence Day
+4064,600,99,4,Fargo
+4065,461,180,4,Return of the Jedi
+4066,925,257,4,Contact
+4067,879,120,2,Independence Day
+4068,845,287,4,Scream
+4069,679,293,4,Liar Liar
+4070,688,180,5,Return of the Jedi
+4071,422,99,5,Fargo
+4072,327,49,4,Star Wars
+4073,724,287,3,Scream
+4074,772,49,5,Star Wars
+4075,536,0,2,Toy Story
+4076,296,99,5,Fargo
+4077,941,257,4,Contact
+4078,264,293,4,Liar Liar
+4079,837,0,5,Toy Story
+4080,927,287,3,Scream
+4081,916,99,4,Fargo
+4082,103,120,2,Independence Day
+4083,557,99,5,Fargo
+4084,342,257,5,Contact
+4085,835,285,3,"English Patient, The"
+4086,465,299,3,Air Force One
+4087,716,120,2,Independence Day
+4088,772,285,3,"English Patient, The"
+4089,196,49,5,Star Wars
+4090,886,120,5,Independence Day
+4091,895,180,5,Return of the Jedi
+4092,411,0,4,Toy Story
+4093,631,99,3,Fargo
+4094,169,299,5,Air Force One
+4095,903,180,3,Return of the Jedi
+4096,733,287,4,Scream
+4097,855,293,4,Liar Liar
+4098,829,293,3,Liar Liar
+4099,17,49,4,Star Wars
+4100,889,285,5,"English Patient, The"
+4101,31,49,4,Star Wars
+4102,565,49,2,Star Wars
+4103,824,120,5,Independence Day
+4104,652,0,4,Toy Story
+4105,652,99,4,Fargo
+4106,357,257,4,Contact
+4107,843,293,2,Liar Liar
+4108,483,120,4,Independence Day
+4109,439,257,4,Contact
+4110,921,180,5,Return of the Jedi
+4111,846,0,3,Toy Story
+4112,644,49,4,Star Wars
+4113,497,99,3,Fargo
+4114,878,180,4,Return of the Jedi
+4115,624,299,3,Air Force One
+4116,932,180,2,Return of the Jedi
+4117,824,99,4,Fargo
+4118,855,285,4,"English Patient, The"
+4119,761,285,4,"English Patient, The"
+4120,551,257,4,Contact
+4121,832,180,2,Return of the Jedi
+4122,19,49,3,Star Wars
+4123,742,257,5,Contact
+4124,533,287,4,Scream
+4125,781,180,3,Return of the Jedi
+4126,1,285,4,"English Patient, The"
+4127,576,49,4,Star Wars
+4128,715,299,5,Air Force One
+4129,45,285,5,"English Patient, The"
+4130,780,293,1,Liar Liar
+4131,525,180,4,Return of the Jedi
+4132,404,180,5,Return of the Jedi
+4133,284,285,3,"English Patient, The"
+4134,822,180,4,Return of the Jedi
+4135,394,299,3,Air Force One
+4136,682,287,3,Scream
+4137,571,99,3,Fargo
+4138,853,257,4,Contact
+4139,935,285,5,"English Patient, The"
+4140,360,120,2,Independence Day
+4141,513,99,4,Fargo
+4142,200,0,3,Toy Story
+4143,485,49,5,Star Wars
+4144,869,285,4,"English Patient, The"
+4145,665,293,3,Liar Liar
+4146,172,257,4,Contact
+4147,826,299,3,Air Force One
+4148,885,99,4,Fargo
+4149,605,0,5,Toy Story
+4150,434,287,4,Scream
+4151,504,120,4,Independence Day
+4152,485,99,5,Fargo
+4153,272,285,3,"English Patient, The"
+4154,581,99,5,Fargo
+4155,806,299,5,Air Force One
+4156,846,180,4,Return of the Jedi
+4157,822,49,5,Star Wars
+4158,781,299,4,Air Force One
+4159,709,180,3,Return of the Jedi
+4160,317,293,4,Liar Liar
+4161,886,99,2,Fargo
+4162,880,0,4,Toy Story
+4163,879,299,3,Air Force One
+4164,159,287,5,Scream
+4165,768,0,4,Toy Story
+4166,758,49,4,Star Wars
+4167,875,287,3,Scream
+4168,864,99,4,Fargo
+4169,543,299,4,Air Force One
+4170,737,120,4,Independence Day
+4171,896,293,3,Liar Liar
+4172,773,99,1,Fargo
+4173,578,49,5,Star Wars
+4174,928,99,4,Fargo
+4175,647,293,3,Liar Liar
+4176,878,49,4,Star Wars
+4177,681,299,2,Air Force One
+4178,830,293,4,Liar Liar
+4179,481,285,3,"English Patient, The"
+4180,662,293,3,Liar Liar
+4181,660,293,4,Liar Liar
+4182,636,299,3,Air Force One
+4183,129,257,4,Contact
+4184,6,49,5,Star Wars
+4185,871,120,4,Independence Day
+4186,175,180,3,Return of the Jedi
+4187,233,257,2,Contact
+4188,630,293,3,Liar Liar
+4189,939,49,4,Star Wars
+4190,663,0,4,Toy Story
+4191,868,99,5,Fargo
+4192,451,287,2,Scream
+4193,384,99,4,Fargo
+4194,788,99,5,Fargo
+4195,488,299,5,Air Force One
+4196,917,0,3,Toy Story
+4197,350,257,5,Contact
+4198,575,0,4,Toy Story
+4199,855,299,4,Air Force One
+4200,646,293,3,Liar Liar
+4201,679,0,4,Toy Story
+4202,905,299,3,Air Force One
+4203,792,180,4,Return of the Jedi
+4204,750,120,4,Independence Day
+4205,921,287,2,Scream
+4206,535,0,5,Toy Story
+4207,792,49,5,Star Wars
+4208,937,49,5,Star Wars
+4209,747,285,3,"English Patient, The"
+4210,847,120,4,Independence Day
+4211,659,180,4,Return of the Jedi
+4212,416,120,3,Independence Day
+4213,122,293,1,Liar Liar
+4214,785,285,4,"English Patient, The"
+4215,909,299,4,Air Force One
+4216,702,120,5,Independence Day
+4217,816,299,3,Air Force One
+4218,804,99,5,Fargo
+4219,902,120,3,Independence Day
+4220,888,0,3,Toy Story
+4221,56,0,5,Toy Story
+4222,918,299,4,Air Force One
+4223,392,0,3,Toy Story
+4224,874,287,4,Scream
+4225,881,180,5,Return of the Jedi
+4226,658,120,4,Independence Day
+4227,343,99,5,Fargo
+4228,703,285,5,"English Patient, The"
+4229,520,0,2,Toy Story
+4230,327,299,5,Air Force One
+4231,550,299,4,Air Force One
+4232,549,257,5,Contact
+4233,934,285,5,"English Patient, The"
+4234,744,0,2,Toy Story
+4235,786,293,3,Liar Liar
+4236,255,99,4,Fargo
+4237,94,293,2,Liar Liar
+4238,890,120,4,Independence Day
+4239,931,99,5,Fargo
+4240,670,120,4,Independence Day
+4241,613,120,4,Independence Day
+4242,725,0,4,Toy Story
+4243,842,299,3,Air Force One
+4244,923,287,3,Scream
+4245,870,285,3,"English Patient, The"
+4246,533,299,4,Air Force One
+4247,246,99,3,Fargo
+4248,624,49,5,Star Wars
+4249,909,49,5,Star Wars
+4250,813,287,4,Scream
+4251,708,287,5,Scream
+4252,884,99,3,Fargo
+4253,915,285,4,"English Patient, The"
+4254,769,99,5,Fargo
+4255,899,99,4,Fargo
+4256,896,180,3,Return of the Jedi
+4257,613,285,2,"English Patient, The"
+4258,260,299,5,Air Force One
+4259,614,285,4,"English Patient, The"
+4260,795,293,3,Liar Liar
+4261,31,180,4,Return of the Jedi
+4262,512,257,4,Contact
+4263,831,287,3,Scream
+4264,606,99,4,Fargo
+4265,893,49,4,Star Wars
+4266,619,49,4,Star Wars
+4267,929,285,3,"English Patient, The"
+4268,594,99,4,Fargo
+4269,736,257,5,Contact
+4270,485,293,2,Liar Liar
+4271,833,285,4,"English Patient, The"
+4272,582,285,4,"English Patient, The"
+4273,641,120,5,Independence Day
+4274,900,49,4,Star Wars
+4275,797,49,5,Star Wars
+4276,866,0,4,Toy Story
+4277,69,0,4,Toy Story
+4278,795,299,4,Air Force One
+4279,582,99,5,Fargo
+4280,418,0,4,Toy Story
+4281,534,299,3,Air Force One
+4282,851,120,4,Independence Day
+4283,280,299,4,Air Force One
+4284,935,299,3,Air Force One
+4285,611,99,4,Fargo
+4286,331,49,5,Star Wars
+4287,773,180,3,Return of the Jedi
+4288,926,120,5,Independence Day
+4289,731,293,3,Liar Liar
+4290,725,293,5,Liar Liar
+4291,262,180,4,Return of the Jedi
+4292,723,293,4,Liar Liar
+4293,343,257,3,Contact
+4294,393,293,4,Liar Liar
+4295,942,99,5,Fargo
+4296,9,285,4,"English Patient, The"
+4297,921,0,5,Toy Story
+4298,789,120,3,Independence Day
+4299,859,99,4,Fargo
+4300,631,257,4,Contact
+4301,780,49,5,Star Wars
+4302,873,99,4,Fargo
+4303,246,180,4,Return of the Jedi
+4304,440,99,3,Fargo
+4305,487,287,2,Scream
+4306,727,285,3,"English Patient, The"
+4307,327,257,5,Contact
+4308,140,293,4,Liar Liar
+4309,816,293,4,Liar Liar
+4310,146,285,5,"English Patient, The"
+4311,937,120,5,Independence Day
+4312,311,180,4,Return of the Jedi
+4313,622,257,4,Contact
+4314,907,49,4,Star Wars
+4315,847,49,5,Star Wars
+4316,18,293,3,Liar Liar
+4317,884,49,3,Star Wars
+4318,471,99,5,Fargo
+4319,481,293,4,Liar Liar
+4320,419,285,4,"English Patient, The"
+4321,423,257,2,Contact
+4322,246,257,5,Contact
+4323,893,0,4,Toy Story
+4324,869,99,4,Fargo
+4325,870,180,3,Return of the Jedi
+4326,587,285,4,"English Patient, The"
+4327,858,287,4,Scream
+4328,32,287,4,Scream
+4329,839,180,3,Return of the Jedi
+4330,424,257,2,Contact
+4331,157,293,1,Liar Liar
+4332,65,299,5,Air Force One
+4333,20,285,3,"English Patient, The"
+4334,753,285,3,"English Patient, The"
+4335,709,285,4,"English Patient, The"
+4336,685,49,4,Star Wars
+4337,804,257,3,Contact
+4338,794,49,3,Star Wars
+4339,265,99,5,Fargo
+4340,598,0,4,Toy Story
+4341,799,120,4,Independence Day
+4342,508,180,4,Return of the Jedi
+4343,909,0,4,Toy Story
+4344,806,49,5,Star Wars
+4345,373,180,3,Return of the Jedi
+4346,919,287,3,Scream
+4347,182,49,2,Star Wars
+4348,481,257,2,Contact
+4349,675,285,4,"English Patient, The"
+4350,888,293,3,Liar Liar
+4351,828,0,4,Toy Story
+4352,649,257,3,Contact
+4353,424,49,5,Star Wars
+4354,212,287,4,Scream
+4355,655,299,2,Air Force One
+4356,445,299,3,Air Force One
+4357,814,120,2,Independence Day
+4358,498,257,2,Contact
+4359,862,285,5,"English Patient, The"
+4360,939,99,3,Fargo
+4361,677,299,4,Air Force One
+4362,785,49,4,Star Wars
+4363,936,49,5,Star Wars
+4364,886,49,5,Star Wars
+4365,828,257,3,Contact
+4366,703,99,4,Fargo
+4367,905,285,5,"English Patient, The"
+4368,73,299,3,Air Force One
+4369,62,293,2,Liar Liar
+4370,394,287,2,Scream
+4371,737,0,5,Toy Story
+4372,900,0,5,Toy Story
+4373,428,299,3,Air Force One
+4374,528,299,4,Air Force One
+4375,570,180,4,Return of the Jedi
+4376,709,99,4,Fargo
+4377,912,99,3,Fargo
+4378,782,293,3,Liar Liar
+4379,665,49,3,Star Wars
+4380,665,99,4,Fargo
+4381,718,293,2,Liar Liar
+4382,647,285,1,"English Patient, The"
+4383,447,287,1,Scream
+4384,871,293,3,Liar Liar
+4385,747,299,4,Air Force One
+4386,462,285,4,"English Patient, The"
+4387,845,180,5,Return of the Jedi
+4388,266,180,5,Return of the Jedi
+4389,587,49,5,Star Wars
+4390,584,285,4,"English Patient, The"
+4391,412,99,4,Fargo
+4392,896,120,5,Independence Day
+4393,794,0,4,Toy Story
+4394,827,287,3,Scream
+4395,114,99,5,Fargo
+4396,888,257,4,Contact
+4397,664,120,2,Independence Day
+4398,842,0,3,Toy Story
+4399,894,293,4,Liar Liar
+4400,817,257,4,Contact
+4401,179,180,2,Return of the Jedi
+4402,43,180,4,Return of the Jedi
+4403,512,120,5,Independence Day
+4404,939,257,5,Contact
+4405,595,49,5,Star Wars
+4406,937,287,5,Scream
+4407,789,257,3,Contact
+4408,921,257,4,Contact
+4409,718,299,2,Air Force One
+4410,863,257,5,Contact
+4411,32,299,4,Air Force One
+4412,671,180,3,Return of the Jedi
+4413,101,0,3,Toy Story
+4414,906,49,4,Star Wars
+4415,786,285,3,"English Patient, The"
+4416,405,293,3,Liar Liar
+4417,423,299,2,Air Force One
+4418,935,120,4,Independence Day
+4419,918,293,3,Liar Liar
+4420,898,180,3,Return of the Jedi
+4421,581,293,1,Liar Liar
+4422,932,49,4,Star Wars
+4423,595,285,4,"English Patient, The"
+4424,597,299,4,Air Force One
+4425,454,257,5,Contact
+4426,587,99,1,Fargo
+4427,881,120,4,Independence Day
+4428,819,285,4,"English Patient, The"
+4429,756,0,4,Toy Story
+4430,881,257,3,Contact
+4431,929,0,3,Toy Story
+4432,833,299,3,Air Force One
+4433,287,99,5,Fargo
+4434,833,180,5,Return of the Jedi
+4435,463,49,4,Star Wars
+4436,934,299,4,Air Force One
+4437,94,49,5,Star Wars
+4438,840,257,5,Contact
+4439,778,293,5,Liar Liar
+4440,797,180,5,Return of the Jedi
+4441,40,49,5,Star Wars
+4442,544,49,5,Star Wars
+4443,576,293,4,Liar Liar
+4444,644,287,3,Scream
+4445,108,49,5,Star Wars
+4446,306,120,1,Independence Day
+4447,503,99,5,Fargo
+4448,577,299,4,Air Force One
+4449,737,99,2,Fargo
+4450,816,287,4,Scream
+4451,161,293,3,Liar Liar
+4452,837,120,2,Independence Day
+4453,714,49,5,Star Wars
+4454,771,293,4,Liar Liar
+4455,937,257,5,Contact
+4456,853,120,1,Independence Day
+4457,576,120,5,Independence Day
+4458,155,99,4,Fargo
+4459,866,299,2,Air Force One
+4460,898,0,3,Toy Story
+4461,437,299,4,Air Force One
+4462,940,299,4,Air Force One
+4463,729,0,4,Toy Story
+4464,120,0,4,Toy Story
+4465,401,99,5,Fargo
+4466,257,299,5,Air Force One
+4467,909,180,1,Return of the Jedi
+4468,912,49,4,Star Wars
+4469,841,257,3,Contact
+4470,892,287,3,Scream
+4471,402,49,5,Star Wars
+4472,524,180,4,Return of the Jedi
+4473,722,49,4,Star Wars
+4474,644,180,4,Return of the Jedi
+4475,930,180,4,Return of the Jedi
+4476,924,287,5,Scream
+4477,355,287,4,Scream
+4478,915,120,3,Independence Day
+4479,398,99,3,Fargo
+4480,547,0,4,Toy Story
+4481,935,0,4,Toy Story
+4482,776,287,4,Scream
+4483,537,49,5,Star Wars
+4484,896,287,5,Scream
+4485,424,299,2,Air Force One
+4486,681,287,4,Scream
+4487,815,299,4,Air Force One
+4488,487,299,4,Air Force One
+4489,704,180,5,Return of the Jedi
+4490,660,120,2,Independence Day
+4491,406,120,4,Independence Day
+4492,145,285,3,"English Patient, The"
+4493,220,287,3,Scream
+4494,135,257,5,Contact
+4495,450,257,4,Contact
+4496,82,49,3,Star Wars
+4497,306,49,5,Star Wars
+4498,471,49,5,Star Wars
+4499,541,49,4,Star Wars
+4500,376,293,5,Liar Liar
+4501,117,99,5,Fargo
+4502,784,293,4,Liar Liar
+4503,506,180,5,Return of the Jedi
+4504,922,293,4,Liar Liar
+4505,811,299,5,Air Force One
+4506,936,99,3,Fargo
+4507,694,285,3,"English Patient, The"
+4508,923,49,5,Star Wars
+4509,307,120,3,Independence Day
+4510,632,299,4,Air Force One
+4511,932,120,3,Independence Day
+4512,867,99,5,Fargo
+4513,551,299,4,Air Force One
+4514,788,287,3,Scream
+4515,907,99,4,Fargo
+4516,697,120,2,Independence Day
+4517,928,49,4,Star Wars
+4518,890,180,3,Return of the Jedi
+4519,929,49,2,Star Wars
+4520,937,285,3,"English Patient, The"
+4521,118,257,2,Contact
+4522,799,180,4,Return of the Jedi
+4523,863,287,5,Scream
+4524,516,180,4,Return of the Jedi
+4525,559,49,5,Star Wars
+4526,889,120,2,Independence Day
+4527,935,293,3,Liar Liar
+4528,850,285,4,"English Patient, The"
+4529,818,285,5,"English Patient, The"
+4530,914,285,4,"English Patient, The"
+4531,456,0,4,Toy Story
+4532,534,49,5,Star Wars
+4533,537,120,3,Independence Day
+4534,767,99,5,Fargo
+4535,792,0,4,Toy Story
+4536,508,293,2,Liar Liar
+4537,922,49,5,Star Wars
+4538,714,120,4,Independence Day
+4539,738,287,1,Scream
+4540,900,293,3,Liar Liar
+4541,538,257,4,Contact
+4542,583,180,4,Return of the Jedi
+4543,766,0,5,Toy Story
+4544,805,0,4,Toy Story
+4545,663,120,3,Independence Day
+4546,645,285,3,"English Patient, The"
+4547,878,120,4,Independence Day
+4548,881,287,3,Scream
+4549,893,285,5,"English Patient, The"
+4550,799,49,4,Star Wars
+4551,919,257,4,Contact
+4552,322,180,5,Return of the Jedi
+4553,62,180,3,Return of the Jedi
+4554,698,293,3,Liar Liar
+4555,888,99,4,Fargo
+4556,771,257,5,Contact
+4557,941,299,5,Air Force One
+4558,755,299,4,Air Force One
+4559,906,120,4,Independence Day
+4560,668,120,3,Independence Day
+4561,824,287,1,Scream
+4562,817,287,5,Scream
+4563,401,180,4,Return of the Jedi
+4564,548,257,5,Contact
+4565,553,287,3,Scream
+4566,804,293,1,Liar Liar
+4567,710,257,4,Contact
+4568,933,0,2,Toy Story
+4569,335,49,4,Star Wars
+4570,853,285,1,"English Patient, The"
+4571,659,120,2,Independence Day
+4572,465,120,3,Independence Day
+4573,923,99,4,Fargo
+4574,906,257,4,Contact
+4575,746,257,2,Contact
+4576,454,285,5,"English Patient, The"
+4577,758,293,5,Liar Liar
+4578,535,180,5,Return of the Jedi
+4579,507,49,5,Star Wars
+4580,545,120,5,Independence Day
+4581,786,287,1,Scream
+4582,931,120,3,Independence Day
+4583,874,293,2,Liar Liar
+4584,33,287,2,Scream
+4585,692,49,3,Star Wars
+4586,808,299,4,Air Force One
+4587,892,285,4,"English Patient, The"
+4588,925,293,3,Liar Liar
+4589,821,0,4,Toy Story
+4590,62,120,1,Independence Day
+4591,602,287,3,Scream
+4592,688,0,3,Toy Story
+4593,362,99,5,Fargo
+4594,663,99,5,Fargo
+4595,498,99,4,Fargo
+4596,678,285,5,"English Patient, The"
+4597,385,180,3,Return of the Jedi
+4598,803,99,5,Fargo
+4599,645,287,3,Scream
+4600,763,285,4,"English Patient, The"
+4601,187,299,4,Air Force One
+4602,885,180,5,Return of the Jedi
+4603,432,299,3,Air Force One
+4604,742,285,3,"English Patient, The"
+4605,601,299,3,Air Force One
+4606,525,257,3,Contact
+4607,933,285,4,"English Patient, The"
+4608,504,299,4,Air Force One
+4609,734,299,4,Air Force One
+4610,934,0,3,Toy Story
+4611,838,0,4,Toy Story
+4612,593,99,4,Fargo
+4613,675,99,5,Fargo
+4614,733,120,4,Independence Day
+4615,746,180,5,Return of the Jedi
+4616,562,293,3,Liar Liar
+4617,529,180,3,Return of the Jedi
+4618,494,0,4,Toy Story
+4619,482,257,4,Contact
+4620,558,299,4,Air Force One
+4621,581,0,4,Toy Story
+4622,891,0,5,Toy Story
+4623,700,0,4,Toy Story
+4624,884,299,4,Air Force One
+4625,818,257,2,Contact
+4626,712,299,2,Air Force One
+4627,838,180,3,Return of the Jedi
+4628,547,293,3,Liar Liar
+4629,686,285,3,"English Patient, The"
+4630,707,293,3,Liar Liar
+4631,506,257,4,Contact
+4632,388,285,2,"English Patient, The"
+4633,864,257,4,Contact
+4634,893,99,4,Fargo
+4635,812,299,4,Air Force One
+4636,844,285,5,"English Patient, The"
+4637,660,49,5,Star Wars
+4638,70,99,4,Fargo
+4639,394,257,4,Contact
+4640,758,180,5,Return of the Jedi
+4641,720,0,5,Toy Story
+4642,496,299,3,Air Force One
+4643,360,49,5,Star Wars
+4644,841,287,3,Scream
+4645,861,257,5,Contact
+4646,930,99,4,Fargo
+4647,884,180,3,Return of the Jedi
+4648,932,99,5,Fargo
+4649,575,99,4,Fargo
+4650,732,99,5,Fargo
+4651,920,49,4,Star Wars
+4652,25,287,4,Scream
+4653,742,180,3,Return of the Jedi
+4654,879,0,4,Toy Story
+4655,757,299,2,Air Force One
+4656,804,180,3,Return of the Jedi
+4657,119,49,4,Star Wars
+4658,222,120,3,Independence Day
+4659,418,299,4,Air Force One
+4660,874,285,3,"English Patient, The"
+4661,716,257,5,Contact
+4662,739,257,3,Contact
+4663,895,257,5,Contact
+4664,831,49,3,Star Wars
+4665,596,285,3,"English Patient, The"
+4666,918,287,4,Scream
+4667,344,285,3,"English Patient, The"
+4668,891,180,4,Return of the Jedi
+4669,942,49,4,Star Wars
+4670,935,99,4,Fargo
+4671,929,99,3,Fargo
+4672,851,99,4,Fargo
+4673,243,120,1,Independence Day
+4674,804,120,3,Independence Day
+4675,781,49,3,Star Wars
+4676,749,257,3,Contact
+4677,784,49,5,Star Wars
+4678,919,285,2,"English Patient, The"
+4679,926,0,5,Toy Story
+4680,293,293,4,Liar Liar
+4681,539,120,2,Independence Day
+4682,895,99,3,Fargo
+4683,433,0,4,Toy Story
+4684,864,0,1,Toy Story
+4685,551,0,3,Toy Story
+4686,48,299,1,Air Force One
+4687,405,285,3,"English Patient, The"
+4688,892,49,5,Star Wars
+4689,895,287,3,Scream
+4690,640,257,3,Contact
+4691,673,180,4,Return of the Jedi
+4692,578,293,4,Liar Liar
+4693,892,120,4,Independence Day
+4694,48,120,1,Independence Day
+4695,682,257,3,Contact
+4696,891,287,4,Scream
+4697,912,257,4,Contact
+4698,796,293,3,Liar Liar
+4699,891,299,4,Air Force One
+4700,314,287,3,Scream
+4701,934,180,4,Return of the Jedi
+4702,922,120,4,Independence Day
+4703,895,299,2,Air Force One
+4704,937,99,5,Fargo
+4705,922,0,3,Toy Story
+4706,765,293,2,Liar Liar
+4707,746,99,5,Fargo
+4708,84,180,4,Return of the Jedi
+4709,836,180,3,Return of the Jedi
+4710,691,0,4,Toy Story
+4711,918,180,4,Return of the Jedi
+4712,863,120,4,Independence Day
+4713,406,287,4,Scream
+4714,583,49,4,Star Wars
+4715,714,99,2,Fargo
+4716,520,180,4,Return of the Jedi
+4717,843,99,4,Fargo
+4718,641,180,5,Return of the Jedi
+4719,748,180,5,Return of the Jedi
+4720,923,180,3,Return of the Jedi
+4721,638,99,1,Fargo
+4722,916,120,1,Independence Day
+4723,231,285,3,"English Patient, The"
+4724,156,257,3,Contact
+4725,846,49,4,Star Wars
+4726,787,293,3,Liar Liar
+4727,440,299,3,Air Force One
+4728,614,299,4,Air Force One
+4729,785,99,4,Fargo
+4730,344,180,4,Return of the Jedi
+4731,603,287,3,Scream
+4732,700,285,4,"English Patient, The"
+4733,909,120,1,Independence Day
+4734,875,285,5,"English Patient, The"
+4735,545,299,3,Air Force One
+4736,790,293,3,Liar Liar
+4737,916,0,3,Toy Story
+4738,287,285,4,"English Patient, The"
+4739,754,285,5,"English Patient, The"
+4740,415,99,5,Fargo
+4741,20,0,5,Toy Story
+4742,787,299,5,Air Force One
+4743,536,299,1,Air Force One
+4744,215,180,3,Return of the Jedi
+4745,709,293,3,Liar Liar
+4746,901,0,5,Toy Story
+4747,633,299,3,Air Force One
+4748,752,299,1,Air Force One
+4749,826,285,3,"English Patient, The"
+4750,837,49,5,Star Wars
+4751,722,285,3,"English Patient, The"
+4752,506,293,5,Liar Liar
+4753,702,99,4,Fargo
+4754,747,0,4,Toy Story
+4755,729,120,4,Independence Day
+4756,816,120,3,Independence Day
+4757,908,293,3,Liar Liar
+4758,937,0,4,Toy Story
+4759,907,299,3,Air Force One
+4760,182,257,3,Contact
+4761,773,49,4,Star Wars
+4762,868,287,3,Scream
+4763,770,49,4,Star Wars
+4764,496,49,5,Star Wars
+4765,415,299,4,Air Force One
+4766,806,257,3,Contact
+4767,51,287,3,Scream
+4768,819,257,3,Contact
+4769,909,285,3,"English Patient, The"
+4770,778,49,5,Star Wars
+4771,877,257,3,Contact
+4772,563,257,4,Contact
+4773,503,299,4,Air Force One
+4774,759,257,5,Contact
+4775,496,120,4,Independence Day
+4776,300,99,5,Fargo
+4777,931,0,4,Toy Story
+4778,803,287,1,Scream
+4779,912,180,3,Return of the Jedi
+4780,682,293,3,Liar Liar
+4781,684,287,2,Scream
+4782,383,285,4,"English Patient, The"
+4783,897,257,3,Contact
+4784,933,180,4,Return of the Jedi
+4785,920,293,4,Liar Liar
+4786,622,287,1,Scream
+4787,940,0,5,Toy Story
+4788,721,120,5,Independence Day
+4789,621,180,5,Return of the Jedi
+4790,236,285,3,"English Patient, The"
+4791,709,257,2,Contact
+4792,940,293,4,Liar Liar
+4793,906,0,5,Toy Story
+4794,140,180,4,Return of the Jedi
+4795,914,257,2,Contact
+4796,547,287,3,Scream
+4797,520,299,3,Air Force One
+4798,918,257,4,Contact
+4799,724,293,3,Liar Liar
+4800,832,287,2,Scream
+4801,647,49,5,Star Wars
+4802,880,180,4,Return of the Jedi
+4803,592,180,4,Return of the Jedi
+4804,554,99,5,Fargo
+4805,707,180,5,Return of the Jedi
+4806,713,293,4,Liar Liar
+4807,36,120,2,Independence Day
+4808,144,120,2,Independence Day
+4809,912,287,2,Scream
+4810,403,287,3,Scream
+4811,573,285,3,"English Patient, The"
+4812,550,257,4,Contact
+4813,457,99,4,Fargo
+4814,820,293,4,Liar Liar
+4815,477,99,5,Fargo
+4816,250,293,3,Liar Liar
+4817,789,99,2,Fargo
+4818,139,287,3,Scream
+4819,587,293,4,Liar Liar
+4820,387,120,4,Independence Day
+4821,264,0,5,Toy Story
+4822,189,287,5,Scream
+4823,879,293,4,Liar Liar
+4824,708,0,4,Toy Story
+4825,275,299,4,Air Force One
+4826,375,99,4,Fargo
+4827,444,0,3,Toy Story
+4828,397,0,5,Toy Story
+4829,158,287,3,Scream
+4830,681,0,4,Toy Story
+4831,906,287,5,Scream
+4832,598,293,4,Liar Liar
+4833,894,0,4,Toy Story
+4834,381,285,2,"English Patient, The"
+4835,746,0,5,Toy Story
+4836,803,293,5,Liar Liar
+4837,736,99,5,Fargo
+4838,56,120,4,Independence Day
+4839,733,49,4,Star Wars
+4840,748,49,5,Star Wars
+4841,656,257,2,Contact
+4842,805,99,4,Fargo
+4843,540,257,4,Contact
+4844,785,0,4,Toy Story
+4845,866,293,3,Liar Liar
+4846,885,49,5,Star Wars
+4847,888,180,4,Return of the Jedi
+4848,553,180,4,Return of the Jedi
+4849,799,0,4,Toy Story
+4850,576,180,5,Return of the Jedi
+4851,793,99,5,Fargo
+4852,733,293,1,Liar Liar
+4853,688,257,5,Contact
+4854,738,49,4,Star Wars
+4855,936,293,1,Liar Liar
+4856,873,285,4,"English Patient, The"
+4857,902,49,5,Star Wars
+4858,894,99,4,Fargo
+4859,592,0,3,Toy Story
+4860,362,180,5,Return of the Jedi
+4861,779,49,5,Star Wars
+4862,129,120,5,Independence Day
