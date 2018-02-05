@@ -73,21 +73,21 @@ It is clear that in the beginning of the simulation, all options are being explo
 After 500 recommendations, *Star Wars* has already accounted for more than 50% of all of the recommendations made by the algorithm; after 1,000 recommendations, its share has surpassed 70%.
 
 ### Overall Results
-The simulation results for 20,000 recommendations made by three different algorithms (Thompson Sampling, &epsilon;-Greedy and A/B tests) are compared in the following figure. The percentage of recommendations that resulted in the viewer **dis**liking the recommendation is shown in the vertical dimension, as a function of total recommendations made by the algorithm on the horizontal. The best movie to recommend is *Star Wars*, which was liked by ~56% of the viewers who rated it and disliked by 44%; this is shown as a dotted black line in the figure.
+The simulation results for 20,000 recommendations made by three different algorithms (Thompson Sampling, &epsilon;-Greedy and A/B tests) are compared in the following figure. The cumulative percentage of recommendations that resulted in the viewer **liking** the recommendation (by rating the movie 5) is shown in the vertical dimension, as a function of total recommendations made by the algorithm on the horizontal. The best movie to recommend is *Star Wars*, which was liked by ~56% of the viewers who rated it; this is shown as a dotted black line in the figure.
 
 The A/B tests were simulated for two different test period lengths (1,000 and 5,000 recommendations), after which the movie choice that was determined to be the best was recommended for the remainder of the simulation. The &epsilon;-Greedy algorithm was simulated with two different values of the parameter &epsilon; (0.05 and 0.10). All of the simulations were averaged over 20 iterations.
 
 <p align="center">
-  <img src="output/images/rejected_rate.png" width="75%" height="75%">
+  <img src="output/images/pct_liked_recs.png" width="75%" height="75%">
 </p>
 
-The A/B tests (red) demonstrate an average performance during their testing periods and only after the tests have concluded do they show improvement. This makes sense because all ten movies are recommended in equal portions during the testing phase. After the test concludes and *Star Wars* has been identified as the best option, it begins to recommend *Star Wars* 100% of the time, so the percentage of disliked recommendations begins to approach the optimal value.
+The A/B tests (red) demonstrate an average performance during their testing periods and only after the tests have concluded do they show improvement. This makes sense because all ten movies are recommended in equal portions during the testing phase. After the test concludes and *Star Wars* has been identified as the best option, it begins to recommend *Star Wars* 100% of the time, so the percentage of liked recommendations begins to approach the optimal value.
 
 The &epsilon;-Greedy results (blue) are significantly better than the longer A/B test, and better in the short-term than the shorter A/B test. Between the two &epsilon;-Greedy simulations, one (dashed line) performs better in the short-term while the other shows better performance in the long-term.
 
-The Thompson Sampling results (brown) are the best of them all, demonstrating fast convergence and rapidly approach the optimal value.
+The Thompson Sampling results (brown) are the best of them all, demonstrating fast convergence and rapidly approaching the optimal value.
 
 ## Summary
-From the simulations of movie recommendations, it is clear that the bandit algorithms can reduce regret: the percentage of negative outcomes &mdash; i.e., disliked recommendations &mdash; are generally less than the A/B tests.
+From the simulations of movie recommendations, it is clear that the bandit algorithms reduce the regret that is experienced. The cumulative percentage of bandit recommendations that are liked quickly surpasses the average performance of the testing phase of the A/B tests. In comparison, the A/B tests make a large quantity of less-than-optimal recommendations during their testing phase, which requires time to recover from.
 
 There are different bandit algorithms for different situations, and depending on the circumstances and the specific needs at hand, it may be better to use a bandit that converges faster, or one that operates more slowly but results in better performance long-term. A/B tests are still a valuable tool, however: since the bandit algorithms reduce the usage of inferior options, it takes longer to establish statistical significance of their performance, which could be an important consideration.
