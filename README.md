@@ -25,7 +25,7 @@ During the test, each variant is presented to an equal number of users to **expl
 
 One drawback with A/B testing is that it incurs "**regret**," which is the concept that during the test, inferior options were presented to some users who may have had a better interaction with a better choice. For example, imagine performing an A/B test that compares different ad banners and finds that one banner leads to more conversions than the others. In this context, regret refers to the loss of conversions of users that did not click on the inferior ad that they were shown, who would have clicked on the best ad if it had been presented to them.
 
-With regular use of A/B testing, regret quietly affects a company’s bottom line over time, through things like lost conversions or less-than-ideal user experiences. For any company that regularly runs tests to find an optimal version, minimizing regret as much as possible could provide a significant advantage.
+With regular use of A/B testing, regret quietly affects a company's bottom line over time, through things like lost conversions or less-than-ideal user experiences. For any company that regularly runs tests to find an optimal version, minimizing regret as much as possible could provide a significant advantage.
 
 ### Bandit Algorithms
 Bandit algorithms can reduce the amount of regret that occurs with A/B tests because they continuously balance exploration with exploitation. After every new sample, the knowledge that was learned is used to make a better choice the next time around. Over time, the options that perform better are used more often than the underperformers, and eventually the best option wins out.
@@ -34,9 +34,9 @@ Bandit algorithms can reduce the amount of regret that occurs with A/B tests bec
   <img src="images/Bandit_Test.png">
 <p>
 
-How this balance of exploration and exploitation is achieved depends on the particular bandit algorithm. One of the first bandit algorithms ever developed is the &epsilon;-Greedy algorithm, which uses a parameter ("&epsilon;") to control the percentage of time that a random option is selected &mdash; corresponding to exploration. The remainder of the time, the option that has historically performed the best is used &mdash; corresponding to exploitation.
+How this balance of exploration and exploitation is achieved depends on the particular bandit algorithm. One of the first bandit algorithms ever developed is the &epsilon;-Greedy algorithm, which uses a parameter ("&epsilon;") to control the percentage of time that a random option is used &mdash; corresponding to exploration. The remainder of the time, the option that has historically performed the best is used &mdash; corresponding to exploitation.
 
-Another bandit is the Thompson Sampling algorithm. It treats each tested option as having an intrinsic probability of resulting in a positive user interaction. To make a selection for a user, each option's probability distribution is sampled and the one with the highest probability of having a positive interaction is used. After observing the response, the estimate of that option’s probability distribution is updated for the next selection.
+Another bandit is the Thompson Sampling algorithm, which is a probability matching algorithm. It tries to match the probability that a particular choice is used to the probability that that choice is the best one. To accomplish this, each tested option is treated as having an intrinsic probability of resulting in a positive user interaction. To make a selection for a user, each option's probability distribution is sampled and the one with the highest probability of having a positive interaction is used. After observing the response, the estimate of that option's probability distribution is updated for the next selection.
 
 There are other bandit algorithms as well, such as the Softmax algorithm, which can be used to minimize negative interactions, at the cost of using the best option less often. Choosing which bandit algorithm to use depends on what is being tested and the priorities of the tester.
 
